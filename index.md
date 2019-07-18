@@ -1,11 +1,27 @@
-## Welcome to GitHub Pages
+# Thomas Woodworking Co.
+ Out of Limestone Pl. Sherman Oaks
 
-You can use the [editor on GitHub](https://github.com/tomtominator/tree-spoon.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Crafted from Raw Wood
+img1
+descrp
+img2
+descrp
+img3
+descrp
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Handcrafted 
+img1
+img2
 
-### Markdown
+## High Quality
+img1 
+descrp
+img2 
+descrp
+img3
+descrp
 
+## Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
