@@ -2,9 +2,7 @@
  Out of Limestone Pl. Sherman Oaks
 
 ## Crafted from Raw Wood
-![Short Cyprus-Living](https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_165933.jpg)
-
-<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_165933.jpg" width="48">
+<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_165933.jpg" width="200" height="100">
 ## Handcrafted 
 img1
 img2
