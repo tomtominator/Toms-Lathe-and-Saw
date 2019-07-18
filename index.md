@@ -2,7 +2,7 @@
  Out of Limestone Pl. Sherman Oaks
 
 ## Crafted from Raw Wood
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_165933.jpg)
 
 
 ## Handcrafted 
