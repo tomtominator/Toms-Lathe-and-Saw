@@ -2,10 +2,10 @@
  Out of Limestone Pl. Sherman Oaks
 
 ## Crafted from Raw Wood
-Cyprus
+### Cyprus
 <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_165933.jpg" width="400" height="600">
 <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_165948.jpg" width="600" height="400">
-Eucalyptus
+### Eucalyptus
 <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_170014.jpg" width="400" height="600">
 <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_170024.jpg" width="400" height="600">
 ## Handcrafted 
