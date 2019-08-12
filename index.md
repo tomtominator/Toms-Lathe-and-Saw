@@ -12,7 +12,7 @@
 
 ## Handcrafted 
 ### Bending
-<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/MVIMG_20190713_114344.jpg" width="200" height="300"> <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/MVIMG_20190712_171233.jpg" width="300" height="200">
+<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/MVIMG_20190713_114344.jpg" width="300" height="200"> <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/MVIMG_20190712_171233.jpg" width="300" height="200">
 
 ### Scooping
 
