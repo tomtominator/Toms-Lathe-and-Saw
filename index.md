@@ -17,7 +17,7 @@
 ### Scooping
 <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_174044.jpg" width="300" height="200">
 <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_174514.jpg" width="300" height="200">
-<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_181645.jpg" width="300" height="200">
+<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_181645.jpg" width="150" height="225">
 
 
 ## High Quality
