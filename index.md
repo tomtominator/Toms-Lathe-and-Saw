@@ -15,9 +15,7 @@
 <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/MVIMG_20190713_114344.jpg" width="300" height="200"> <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/MVIMG_20190712_171233.jpg" width="300" height="200">
 
 ### Scooping
-<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_174044.jpg" width="300" height="200">
-<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_174514.jpg" width="300" height="200">
-<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_181645.jpg" width="150" height="225">
+<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_174044.jpg" width="300" height="200"> <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_174514.jpg" width="300" height="200"> <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_181645.jpg" width="133" height="200">
 
 
 ## High Quality
