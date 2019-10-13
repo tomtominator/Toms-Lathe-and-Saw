@@ -12,14 +12,14 @@
 
 ## Handcrafted 
 ### Bending
-<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/MVIMG_20190713_114344.jpg" width="300" height="200"> <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/MVIMG_20190712_171233.jpg" width="300" height="200">
+<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/Bending Wood.jpg" width="300" height="200"> <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/Bent Wood.jpg" width="300" height="200">
 
 ### Scooping
-<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_174044.jpg" width="300" height="200"> <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_174514.jpg" width="300" height="200"> <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_181645.jpg" width="133" height="200">
+<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/Spoon Blank 1.jpg" width="300" height="200"> <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/Spoon Blank 2.jpg" width="300" height="200"> <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/Spoon Blank 3.jpg" width="133" height="200">
 
 
 ## High Quality
-<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190629_214047.jpg" width="300" height="200">
+<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/Pepper Wood Spoon.jpg" width="300" height="200">
 img2 
 descrp
 img3
