@@ -4,10 +4,10 @@
 ## Crafted from Raw Wood
 ### Cyprus
 
- <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/Cyprus Wood.jpg" width="200" height="300"> <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_165948.jpg" width="450" height="300"> 
+ <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/Cyprus Tree.jpg" width="200" height="300"> <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/Cyprus Wood.jpg" width="450" height="300"> 
 
 ### Eucalyptus
-<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_170014.jpg" width="200" height="300"> <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/IMG_20190523_170024.jpg" width="200" height="300">
+<img src="https://github.com/tomtominator/tree-spoon.com/blob/master/Eucalyptus Tree.jpg" width="200" height="300"> <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/Eucalyptus Wood.jpg" width="200" height="300">
 
 
 ## Handcrafted 
