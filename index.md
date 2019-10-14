@@ -4,7 +4,7 @@
 ## Crafted from Raw Wood
 ### Cyprus
 
- (/Cyprus Tree.jpg) <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/Cyprus Wood.jpg" width="450" height="300"> 
+ (/CyprusTree.jpg) <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/Cyprus Wood.jpg" width="450" height="300"> 
 
 ### Eucalyptus
 <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/Eucalyptus Tree.jpg" width="200" height="300"> <img src="https://github.com/tomtominator/tree-spoon.com/blob/master/Eucalyptus Wood.jpg" width="200" height="300">
