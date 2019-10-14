@@ -28,7 +28,7 @@ the handle meets the scoop. Possible due to the woods inherent hardness, this sp
 sanded very smooth.
 <img src="MagnoliaSpoon.jpg" width="300" height="200">
 <img src="MagnoliaSpoonFace.jpg" width="300" height="200">
-<img src="MagnoliaSpoonBack.jpg" width="200" height="300">
+<img src="MagnoliaSpoonBack.jpg" width="225" height="300">
 This scrap magnolia piece revealed a beautiful grain. The spoon is bend at the connection
 between the scoop and the handle at a sharper angle than the pepper wood spoon. Additionally, this 
 spoon has a loop at the end, either to wrap a string through or for ease of storage.
