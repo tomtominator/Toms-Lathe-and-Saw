@@ -2,6 +2,10 @@
  Out of Sherman Oaks
 
 ## Crafted from Raw Wood
+Dead trees are given new life and beauty through these projects. As projects 
+usually don't require large amounts of wood, most wood is sourced from my backyard.
+Here are photos showing various types of trees and their respective grain coloring:
+
 ### Cyprus
 
 <img src="CyprusTree.jpg" width="200" height="300"> <img src="CyprusWood.jpg" width="450" height="300"> 
