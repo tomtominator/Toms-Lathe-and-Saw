@@ -12,7 +12,7 @@ Here are photos showing various types of trees and their respective grain colori
 ### Eucalyptus
 <img src="EucalyptusTree.jpg" width="200" height="300"> <img src="EucalyptusWood.jpg" width="200" height="300">
 
-
+# Spoons
 ## Handcrafted 
 ### Bending
 <img src="BendingSpoon.jpg" width="300" height="200"> <img src="BentSpoon.jpg" width="300" height="200">
@@ -21,7 +21,7 @@ Here are photos showing various types of trees and their respective grain colori
 <img src="SpoonBlank1.jpg" width="300" height="200"> <img src="SpoonBlank2.jpg" width="300" height="200"> <img src="SpoonBlank3.jpg" width="133" height="200">
 
 
-## High Quality
+## Finished Spoons
 <img src="PepperWoodSpoon.jpg" width="300" height="200">
 Turned from a quality piece of pepper wood, this spoon is slightly bent where
 the handle meets the scoop. Possible due to the woods inherent hardness, this spoon is
