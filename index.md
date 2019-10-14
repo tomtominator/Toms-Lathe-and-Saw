@@ -15,7 +15,7 @@
 <img src="BendingSpoon.jpg" width="300" height="200"> <img src="BentSpoon.jpg" width="300" height="200">
 
 ### Scooping
-<img src="SpoonBlank 1.jpg" width="300" height="200"> <img src="SpoonBlank 2.jpg" width="300" height="200"> <img src="SpoonBlank 3.jpg" width="133" height="200">
+<img src="SpoonBlank1.jpg" width="300" height="200"> <img src="SpoonBlank2.jpg" width="300" height="200"> <img src="SpoonBlank3.jpg" width="133" height="200">
 
 
 ## High Quality
