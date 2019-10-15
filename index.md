@@ -38,6 +38,6 @@ sanded very smooth.
 <img src="MagnoliaSpoonBack.jpg" width="225" height="300">
 This scrap magnolia piece revealed a beautiful grain. The spoon is bend at the connection
 between the scoop and the handle at a sharper angle than the pepper wood spoon. Additionally, this 
-spoon has a loop at the end, either to wrap a string through or for ease of storage.
+spoon has a loop at the end, either to wrap a string through or for ease of storage. The exposed bark on the side of the scoop is not a mistake, rather it gives the spoon character.
 
 
