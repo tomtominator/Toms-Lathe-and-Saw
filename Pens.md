@@ -9,4 +9,4 @@ Crafted from beautiful redheart wood sourced from South America, this pen has a 
 
 ### Bocate Cuban Pen 
 <img src="BocateCubanPen.JPG" height=300 width=200>
-Turned out of bocate wood which has a increditable grain pattern. Taking my knowledge from the [View Pens](Pens.md) [redheart gatsby pen](RedheartGatsbyPen.jpg)
+Turned out of bocate wood which has a increditable grain pattern. Taking my knowledge from the [redheart gatsby pen](#redheart-gatsby-pen)
