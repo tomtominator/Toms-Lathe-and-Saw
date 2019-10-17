@@ -1,0 +1,42 @@
+# Spoons
+
+Handcrafted using a lathe, carving, and a lot of sanding. Below are the general steps to constructing most spoons but each project is slightly different.  
+
+### Scooping
+<img src="SpoonBlank1.jpg" width="300" height="200">  
+
+The wood has been rounded into a the shape of a maraca(although not hollow) and is adequately smooth at this point.  
+<img src="SpoonBlank2.jpg" width="300" height="200">  
+
+The maraca blank is cut to resemble a spoon more than a maraca.  
+<img src="SpoonBlank3.jpg" width="133" height="200">  
+The scoop of the spoon is carved out using a hook knife.  
+
+Once the scoop is scooped, its time to sand the spoon smooth. I won't include any photos of that because it is almost impossible to see the texture on camera. 
+
+### Bending
+The best spoons are bent to give them a more natural feel. Every utensil has a small bend, which makes a bigger difference than you would expect. Spoons that are completely straight feel completely foreign in the hand. However, most spoons for cooking are straight so this step isn't a must.  
+<img src="HeatingSpoon.jpg" width="225" height="300">  
+This strange contraption boils water. The steam rises up and heats the fibers in the wood of the spoon.  
+
+<img src="BendingSpoon.jpg" width="200" height="300">  
+Once the fibers of the wood are heated and able to move past each other the spoon is bent in a vice. It must be held in this shape until the heated fibers fully dry which usually takes about 1-2 days.  
+
+<img src="BentSpoon.jpg" width="300" height="200">  
+The finished product is permenetly bent. With a little recoil, the shape the spoon was in the vice remains. The more the fibers were originally heated the less recoil occurs.
+
+## Finished Spoons
+
+### Pepperwood Spoon
+<img src="PepperWoodSpoon.jpg" width="600" height="400">  
+
+Turned from a quality piece of pepper wood, this spoon is slightly bent where the handle meets the scoop. Possibly due to the woods inherent hardness, this spoon is sanded very smooth.  
+
+### Magnolia Spoon
+<img src="MagnoliaSpoon.jpg" width="600" height="400">
+
+<img src="MagnoliaSpoonFace.jpg" width="300" height="200">
+
+<img src="MagnoliaSpoonBack.jpg" width="225" height="300">
+
+This scrap magnolia piece revealed a beautiful grain. The spoon is bent at the connection between the scoop and the handle at a sharper angle than the pepper wood spoon. Additionally, this spoon has a loop at the end, either to wrap a string through or for ease of storage. The exposed bark on the side of the scoop is not a mistake, rather it gives the spoon character.
