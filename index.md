@@ -18,9 +18,11 @@ Dead trees are given new life and beauty through these projects. As projects usu
 Although I could stare at wood grain all day, what the wood is used for is the more interesting part for most people. Here are photos from some of my projects that didn't crack in half:
 
 # Pens 
-<theme img here>
+theme img here
+
 [View Pens](Pens.md)
 
 # Spoons
-<theme img here>
+theme img here
+
 [View Spoons](Spoons.md)
