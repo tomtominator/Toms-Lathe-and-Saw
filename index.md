@@ -11,6 +11,10 @@ Dead trees are given new life and beauty through these projects. As projects usu
 
 <img src="EucalyptusTree.jpg" width="200" height="300"> <img src="EucalyptusWood.jpg" width="200" height="300">  
 
+### Pine
+
+<img src="PineWoodPile.jpg" width="225" height="300">
+
 Although I could stare at wood grain all day, what the wood is used for is the more interesting part for most people. Here are photos from some of my projects that didn't crack in half:
 
 # Pens 
