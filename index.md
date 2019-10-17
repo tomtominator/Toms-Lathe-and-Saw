@@ -34,11 +34,13 @@ Once the scoop is scooped, its time to sand the spoon smooth. I won't include an
 ### Bending
 The best spoons are bent to give them a more natural feel. Every utensil has a small bend, which makes a bigger difference than you would expect. Spoons that are completely straight feel completely foreign in the hand. However, most spoons for cooking are straight so this step isn't a must.  
 <img src="HeatingSpoon.jpg" width="225" height="300">  
+This strange contraption boils water. The steam rises up and heats the fibers in the wood of the spoon.  
 
 <img src="BendingSpoon.jpg" width="200" height="300">  
+Once the fibers of the wood are heated and able to move past each other the spoon is bent in a vice. It must be held in this shape until the heated fibers fully dry which usually takes about 1-2 days.  
 
 <img src="BentSpoon.jpg" width="300" height="200">  
-
+The finished product is permenetly bent. With a little recoil, the shape the spoon was in the vice remains. The more the fibers were originally heated the less recoil occurs.
 
 ## Finished Spoons
 
