@@ -41,9 +41,13 @@ The best spoons are bent to give them a more natural feel. Every utensil has a s
 
 
 ## Finished Spoons
+
+### Pepperwood Spoon
 <img src="PepperWoodSpoon.jpg" width="300" height="200">  
 
 Turned from a quality piece of pepper wood, this spoon is slightly bent where the handle meets the scoop. Possibly due to the woods inherent hardness, this spoon is sanded very smooth.  
+
+### Magnolia Spoon
 <img src="MagnoliaSpoon.jpg" width="300" height="200">
 
 <img src="MagnoliaSpoonFace.jpg" width="300" height="200">
