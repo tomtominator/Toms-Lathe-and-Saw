@@ -1,5 +1,5 @@
 # Thomas Woodworking Co.
-[link example](example.md)
+
 ## Crafted from Raw Wood
 Dead trees are given new life and beauty through these projects. As projects usually don't require large amounts of wood, most wood is sourced from my backyard.  Here are photos showing various types of trees and their respective grain coloring:  
 
@@ -10,6 +10,11 @@ Dead trees are given new life and beauty through these projects. As projects usu
 ### Eucalyptus
 
 <img src="EucalyptusTree.jpg" width="200" height="300"> <img src="EucalyptusWood.jpg" width="200" height="300">  
+
+Although I know I could stare at wood grain all day, what the wood is used for it the interesting part for most people. Here are photos from some of my projects that didn't crack in half:
+
+# Pens 
+[View Pens](Pens.md)
 
 # Spoons
 Handcrafted using a lathe rather than carved. Below are the general steps to constructing most spoons but each project is slightly different.  
