@@ -33,7 +33,8 @@ Once the scoop is scooped, its time to sand the spoon smooth. I won't include an
 
 ### Bending
 The best spoons are bent to give them a more natural feel. Every utensil has a small bend, which makes a bigger difference than you would expect. Spoons that are completely straight feel completely foreign in the hand. However, most spoons for cooking are straight so this step isn't a must.  
-<img src="BendingSpoon.jpg" width="300" height="200">  
+<img src="HeatingSpoon.jpg" width="225" height="300">  
+<img src="BendingSpoon.jpg" width="300" height="200">
 <img src="BentSpoon.jpg" width="300" height="200">  
 
 
