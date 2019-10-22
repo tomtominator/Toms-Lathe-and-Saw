@@ -40,3 +40,11 @@ Turned from a quality piece of pepper wood, this spoon is slightly bent where th
 <img src="MagnoliaSpoonBack.jpg" width="225" height="300">
 
 This scrap magnolia piece revealed a beautiful grain. The spoon is bent at the connection between the scoop and the handle at a sharper angle than the pepper wood spoon. Additionally, this spoon has a loop at the end, either to wrap a string through or for ease of storage. The exposed bark on the side of the scoop is not a mistake, rather it gives the spoon character.
+
+### Mother's Day Present - Cyprus Spoon
+<img src="CyprusSpoonFront.jpg" width="200" height="300">
+
+<img src="CyprusSpoonBack.jpg" width="200" height="300">
+
+Made from a piece of old cyprus that Mother planted. I wanted to give her a spoon that captured something special to her. I also wanted to show my appreciation with a present she could use and one that would make her happy everytime she looked at it. The grain turned out to be the most beautiful out of any of the spoons I have made, displaying a fiery purple core that winds throughout the spoon. 
+
