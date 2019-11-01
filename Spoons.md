@@ -28,6 +28,7 @@ The finished product is permenetly bent. With a little recoil, the shape the spo
 ## Finished Spoons
 
 Here is a sampling of some of my best spoons. All the wood is taken from around the house and none is outsourced. The spoons are initially sanded down to 200 grit with regular sandpaper, then I use micro mesh sanders to polish the wood. Snow River Products' Wood Oil is used to lacor. Which is then covered in Briwax for a protected smooth finish. 
+
 *All grain patterns and coloring are completely natural, no dye is used in this process.*
 
 
