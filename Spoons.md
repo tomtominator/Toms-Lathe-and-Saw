@@ -27,10 +27,16 @@ The finished product is permenetly bent. With a little recoil, the shape the spo
 
 ## Finished Spoons
 
-### Pepperwood Spoon
-<img src="PepperWoodSpoon.jpg" width="600" height="400">  
+Here is a sampling of some of my best spoons. All the wood is taken from around the house and none is outsourced. The spoons are initially sanded down to 200 grit with regular sandpaper, then I use micro mesh sanders to polish the wood. Snow River Products' Wood Oil is used to lacor. Which is then covered in Briwax for a protected smooth finish. 
+*All grain patterns and coloring are completely natural, no dye is used in this process.*
 
-Turned from a quality piece of pepper wood, this spoon is slightly bent where the handle meets the scoop. Possibly due to the woods inherent hardness, this spoon is sanded very smooth.  
+
+### Pepperwood Spoon
+<img src="PepperSpoon.jpg" width="600" height="400">
+
+<img src="PepperSpoonBack.jpg" width="200" height="300">
+
+This spoon was given as a gift to a very good friend of mine on her birthday. This was my first spoon that I was really proud to show off for the craftsmanship. It is best used making pasta.
 
 ### Magnolia Spoon
 <img src="MagnoliaSpoon.jpg" width="600" height="400">
@@ -40,6 +46,11 @@ Turned from a quality piece of pepper wood, this spoon is slightly bent where th
 <img src="MagnoliaSpoonBack.jpg" width="225" height="300">
 
 This scrap magnolia piece revealed a beautiful grain. The spoon is bent at the connection between the scoop and the handle at a sharper angle than the pepper wood spoon. Additionally, this spoon has a loop at the end, either to wrap a string through or for ease of storage. The exposed bark on the side of the scoop is not a mistake, rather it gives the spoon character.
+
+### Soup Spoon - Unknown Wood
+<img src="PepperWoodSpoon.jpg" width="600" height="400">  
+
+Turned from a quality piece of wood lieing around, this spoon is slightly bent where the handle meets the scoop. Possibly due to the wood's inherent hardness, this spoon is sanded very smooth. I don't know the origin of this wood.
 
 ### Mother's Day Present - Cyprus Spoon
 <img src="CyprusSpoonFront.jpg" width="200" height="300">
