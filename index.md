@@ -20,11 +20,13 @@ Taken from a felled tree in our neighborhood,
 Although I could stare at wood grain all day, what the wood is used for is the more interesting part for most people. Here are photos from some of my projects that didn't crack in half:
 
 # Pens 
-theme img here
+
+<img src="ThemeImgPens.jpg" width= "400" height="300">
 
 [View Pens](Pens.md)
 
 # Spoons
-theme img here
+
+<img src="ThemeImgSpoons.jpg" width= "400" height="300">
 
 [View Spoons](Spoons.md)
