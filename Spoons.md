@@ -2,6 +2,10 @@
 
 Handcrafted using a lathe, carving, and a lot of sanding. Below are the general steps to constructing most spoons but each project is slightly different.  
 
+Return 
+
+[home](index.md)
+
 ### Scooping
 <img src="SpoonBlank1.jpg" width="300" height="200">  
 
