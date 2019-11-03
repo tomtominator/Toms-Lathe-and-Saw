@@ -39,16 +39,16 @@ Here is a sampling of some of my best spoons. All the wood is taken from around 
 ### Pepperwood Spoon
 <img src="PepperSpoon.jpg" width="600" height="400">
 
-<img src="PepperSpoonBack.jpg" width="200" height="300">
+<img src="PepperSpoonBack.jpg" width="400" height="600">
 
 This spoon was given as a gift to a very good friend of mine on her birthday. This was my first spoon that I was really proud to show off for the craftsmanship. It is best used making pasta.
 
 ### Magnolia Spoon
 <img src="MagnoliaSpoon.jpg" width="600" height="400">
 
-<img src="MagnoliaSpoonFace.jpg" width="300" height="200">
+<img src="MagnoliaSpoonFace.jpg" width="600" height="400">
 
-<img src="MagnoliaSpoonBack.jpg" width="225" height="300">
+<img src="MagnoliaSpoonBack.jpg" width="300" height="400">
 
 This scrap magnolia piece revealed a beautiful grain. The spoon is bent at the connection between the scoop and the handle. Additionally, this spoon has a loop at the end, which functions aesthetically and for ease of storage. The exposed bark on the side of the scoop is not a mistake, rather it gives the spoon character.
 
