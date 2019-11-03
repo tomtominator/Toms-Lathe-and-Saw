@@ -3,13 +3,11 @@
 Pens are created using pen kits bought from Rockler Woodworking.  
 Unlike spoons, I make pens using both purchased wood blanks as well as wood from home. 
 
-Return 
-
-[home](index.md)
+[Return Home](index.md)
 
 ### Redheart Gatsby Pen
 
-<img src="RedheartGatsbyPen.jpg" height=900 width=600>
+<img src="RedheartGatsbyPen.jpg" height="900" width="600">
 
 Crafted from beautiful redheart wood sourced from South America, this pen has a simple but functional design for use in the classroom. The gatsby kit is stout and well balanced making it the perfect writing tool. 
 
@@ -17,7 +15,7 @@ Crafted from beautiful redheart wood sourced from South America, this pen has a 
 
 ### Bocate Cuban Pen 
 
-<img src="BocateCubanPen.JPG" height=900 width=600>
+<img src="BocateCubanPen.JPG" height="900" width="600">
 
 Turned out of bocate wood which has a increditable grain pattern. Taking my knowledge from the
 
