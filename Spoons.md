@@ -63,3 +63,13 @@ Turned from a quality piece of wood lieing around, this spoon is slightly bent w
 
 This spoon is made from an old dead cyprus that Mother planted that was taken from a seed of a tree my grandparents planted. I wanted to give her a spoon that captured something special to her. I also wanted to show my appreciation with a present she could use and one that would make her happy everytime she looked at it. The grain turned out to be the most beautiful out of any of the spoons I have made, displaying a fiery purple core that winds throughout the spoon. 
 
+
+### White Alder Spoon 
+
+<img src="WhiteAlderSpoon.jpg" width="400" height="600">
+
+<img src="WhiteAlderFront.jpg" width="400" height="600">
+
+<img src="WhiteAlderBack.jpg" width="400" height="600">
+
+Take from a young white alder that died after many years fighting against drought. It is a decendent of a huge white alder that used to stand in our backyard 50 years ago. That tree was called George, this tree we called George Jr. Jr. The pattern on the front of the spoon looks like a stage in mitosis.
