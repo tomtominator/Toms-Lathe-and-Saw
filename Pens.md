@@ -1,7 +1,7 @@
 # Pens
 
-Pens are created using pen kits bought from Rockler Woodworking.  
-Unlike spoons, I make pens using both purchased wood blanks as well as wood from home. 
+Pens are created using pen kits bought from various suppliers.  
+Unlike spoons, I make pens using both purchased wood blanks as well as wood from home due to the increased importance of the hardness and density of the wood.
 
 [Return Home](index.md)
 
@@ -26,7 +26,7 @@ Turned out of bocate wood which has a increditable grain pattern. Taking my know
 
 <img src="BolivianCoffeewoodCatPen.jpg" height="900" width="600">
 
-I made this pen for one of my teachers whose chemistry class I learned a lot from. She loves cats so I chose this kit combined with the Bolivian Coffeewood. I chose that wood because I thought it looked the most cat-like out of what I had to choose from. I think it looks like a tabby.
+I made this pen for one of my chemistry teachers. She loves cats so I chose this kit combined with the Bolivian Coffeewood. I chose that wood because I thought it looked the most cat-like out of what I had. I think it looks like a tabby.
 
 
 ### Eucalyptus Cuban Pen
