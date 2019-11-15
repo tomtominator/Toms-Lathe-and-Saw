@@ -66,7 +66,7 @@ This spoon is made from an old dead cyprus that Mother planted that was taken fr
 
 ### White Alder Spoon 
 
-<img src="WhiteAlderSpoon.heic" width="400" height="600">
+<img src="WhiteAlderSpoon.jpg" width="400" height="600">
 
 <img src="WhiteAlderFront.jpg" width="400" height="600">
 
