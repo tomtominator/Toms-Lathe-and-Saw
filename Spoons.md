@@ -68,8 +68,8 @@ This spoon is made from an old dead cyprus that Mother planted that was taken fr
 
 <img src="WhiteAlderSpoonFront.jpg" width="400" height="600">
 
-<img src="WhiteAlderBack.jpg" width="400" height="600">
+<img src="WhiteAlderSpoonBack.jpg" width="400" height="600">
 
-<img src="WhiteAlderClose.jpg" width="400" height="600">
+<img src="WhiteAlderSpoonClose.jpg" width="400" height="600">
 
 Take from a young white alder that died after many years fighting against drought. It is a decendent of a huge white alder that used to stand in our backyard 50 years ago. That tree was called George, this tree we called George Jr. Jr. I think it is interesting that the pattern on the front of the spoon looks like a stage in mitosis.
