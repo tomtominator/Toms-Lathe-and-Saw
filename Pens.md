@@ -34,3 +34,9 @@ I made this pen for one of my chemistry teachers. She loves cats so I chose this
 <img src="EucalyptusCubanPen.jpg" height="900" width="600">
 
 I decided to try something different and make the orange hue of eucalyptus core match the copper plating on this pen kit. Eucalyptus wood isn't very hard or dense (which is very important when making pens because the layer of wood is so thin and can easily crack) so I ran into a few problems but in the end it came together. It was well worth it.
+
+### Bloodwood Slimline Pen
+
+<img src="BloodwoodPen.jpg" height="900" width="600">
+
+I modeled this pen after the symbol for infinity. I wanted it to be as symmetrical as possibe and I am happy with the results considering it was done by hand without a jig. This is the first of many slimlines I plan to make and then sell. Their kit is very inexpensive and quickly made making it ideal for mass production. 
