@@ -35,6 +35,12 @@ I made this pen for one of my chemistry teachers. She loves cats so I chose this
 
 I decided to try something different and make the orange hue of eucalyptus core match the copper plating on this pen kit. Eucalyptus wood isn't very hard or dense (which is very important when making pens because the layer of wood is so thin and can easily crack) so I ran into a few problems but in the end it came together. It was well worth it.
 
+### Bolivian Coffeewood Pen
+
+<img src="BolivianCoffeewoodEDCPen.jpg" height="900" width="600">
+
+This is an every-day-carry pen (EDC) for use in the classroom. It is a click pen with a modified ink cartriage for better writing. The wood design is slim to fit well in the hand.
+
 ### Bloodwood Slimline Pen
 
 <img src="BloodwoodPen.jpg" height="900" width="600">
