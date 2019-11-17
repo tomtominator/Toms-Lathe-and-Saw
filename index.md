@@ -1,6 +1,8 @@
 # Thomas Woodworking Co.
 
-## Crafted from Raw Wood
+This website is meant to display my woodworking projects. Unfortunately nothing is for sale, yet. This site is a work in progress.
+
+## Crafted from Local Wood
 Dead trees are given new life and beauty through these projects. As projects usually don't require large amounts of wood, most wood is sourced from my backyard.  Here are photos showing various types of trees and their respective grain coloring:  
 
 ### Cyprus
