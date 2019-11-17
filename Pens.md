@@ -39,4 +39,4 @@ I decided to try something different and make the orange hue of eucalyptus core 
 
 <img src="BloodwoodPen.jpg" height="900" width="600">
 
-I modeled this pen after the symbol for infinity. I wanted it to be as symmetrical as possibe and I am happy with the results considering it was done by hand without a jig. This is the first of many slimlines I plan to make and then sell. Their kit is very inexpensive and quickly made making it ideal for mass production. 
+I modeled this pen after the symbol for infinity. I wanted it to be as symmetrical as possibe and I am happy with the results considering I didn't use a jig or calipers to expedite the process. This is the first of many slimlines I plan to make and then sell. Their kit is very inexpensive and quickly made making it ideal for mass production. 
