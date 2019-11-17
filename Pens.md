@@ -7,7 +7,7 @@ Unlike spoons, I make pens using both purchased wood blanks as well as wood from
 
 ### Redheart Gatsby Pen
 
-<img src="RedheartGatsbyPen.jpg" height="900" width="600">
+<img src="RedheartGatsbyPen.jpg" height="800" width="600">
 
 Crafted from beautiful redheart wood sourced from South America, this pen has a simple but functional design for use in the classroom. The gatsby kit is stout and well balanced making it the perfect writing tool. 
 
@@ -15,7 +15,7 @@ Crafted from beautiful redheart wood sourced from South America, this pen has a 
 
 ### Bocate Cuban Pen 
 
-<img src="BocateCubanPen.JPG" height="900" width="600">
+<img src="BocateCubanPen.JPG" height="800" width="600">
 
 Turned out of bocate wood which has a increditable grain pattern. Taking my knowledge from the
 
@@ -24,25 +24,25 @@ Turned out of bocate wood which has a increditable grain pattern. Taking my know
 
 ### Bolivian Coffeewood Cat Themed Pen
 
-<img src="BolivianCoffeewoodCatPen.jpg" height="900" width="600">
+<img src="BolivianCoffeewoodCatPen.jpg" height="800" width="600">
 
 I made this pen for one of my chemistry teachers. She loves cats so I chose this kit combined with the Bolivian Coffeewood. I chose that wood because I thought it looked the most cat-like out of what I had. I think it looks like a tabby.
 
 
 ### Eucalyptus Cuban Pen
 
-<img src="EucalyptusCubanPen.jpg" height="900" width="600">
+<img src="EucalyptusCubanPen.jpg" height="800" width="600">
 
 I decided to try something different and make the orange hue of eucalyptus core match the copper plating on this pen kit. Eucalyptus wood isn't very hard or dense (which is very important when making pens because the layer of wood is so thin and can easily crack) so I ran into a few problems but in the end it came together. It was well worth it.
 
 ### Bolivian Coffeewood Pen
 
-<img src="BolivianCoffeewoodEDCPen.jpg" height="900" width="600">
+<img src="BolivianCoffeewoodEDCPen.jpg" height="800" width="600">
 
 This is an every-day-carry pen (EDC) for use in the classroom. It is a click pen with a modified ink cartriage for better writing. The wood design is slim to fit well in the hand.
 
 ### Bloodwood Slimline Pen
 
-<img src="BloodwoodPen.jpg" height="900" width="600">
+<img src="BloodwoodPen.jpg" height="800" width="600">
 
 I modeled this pen after the symbol for infinity. I wanted it to be as symmetrical as possibe and I am happy with the results considering I didn't use a jig or calipers to expedite the process. This is the first of many slimlines I plan to make and then sell. Their kit is very inexpensive and quickly made making it ideal for mass production. 
