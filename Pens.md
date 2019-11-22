@@ -1,7 +1,7 @@
 # Pens
 
 Pens are created using pen kits bought from various suppliers.  
-Unlike spoons, I make pens using both purchased wood blanks as well as wood from home due to the increased importance of the hardness and density of the wood.
+Unlike spoons, I make pens using both purchased wood blanks as well as wood from home due to the importance of the hardness and density of the wood. The wood is turned very thin and precisely so blanks must be of the highest quality. 
 
 [Return Home](index.md)
 
