@@ -51,4 +51,4 @@ I modeled this pen after the symbol for infinity. I wanted it to be as symmetric
 
 <img src="WengeGatsbyPen.JPG" height="800" width="600">
 
-The Gatsby pen model is still my favorite for its superior balance and style. Experimenting with a new coating technique using glue instead of wood oil caused this pen to look like it is coating in glass. This is also the first of many pens that will be made with a new set of exotic woods I bought for pen making. Wenge is from Central Africa and is an endangered species. This piece was sourced responsibly and as a result was quite pricey.
+The Gatsby pen model is still my favorite for its superior balance and style. Experimenting with a new coating technique using glue instead of wood oil caused this pen to look like it is coating in glass. This is also the first of many pens that will be made with a new set of exotic woods I bought for pen making. Wenge is from Central Africa and is an endangered species. However, this piece was sourced responsibly.
