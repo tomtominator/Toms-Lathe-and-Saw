@@ -46,3 +46,9 @@ This is an every-day-carry pen (EDC) for use in the classroom. It is a click pen
 <img src="BloodwoodPen.jpg" height="800" width="600">
 
 I modeled this pen after the symbol for infinity. I wanted it to be as symmetrical as possibe and I am happy with the results considering I didn't use a jig or calipers to expedite the process. This is the first of many slimlines I plan to make and then sell. Their kit is very inexpensive and quickly made making it ideal for mass production. 
+
+### Wenge Gatsby Pen
+
+<img src="WengeGatsbyPen.jpg" height="800" width="600">
+
+The Gatsby pen model is still my favorite for its superior balance and style. Experimenting with a new coating technique using glue instead of wood oil caused this pen to look like it is coating in glass. This is also the first of many pens that will be made with a new set of exotic woods I bought for pen making. Wenge is from Central Africa and is an endangered species. This piece was sourced responsibly and as a result was quite pricey.
