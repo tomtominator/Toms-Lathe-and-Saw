@@ -60,34 +60,34 @@ The Gatsby pen model is still my favorite for its superior balance and style. Ex
 
 ### Walnut Slimline 
 
-<img src="WalnutSlimlinePen.jpg" height="800" width="600">
+<img src="WalnutSlimlinePen.JPG" height="800" width="600">
 
 My new favorite pen, the unorthodox shape I tried on this one had great results in my opinion. It is very comfortable to hold and has a unique feel. The rich color of the walnut is brought out by the sweeping curves of the shape. This pen, along with the following 4 slimlines, were all made in quick succession to test the viability of an makeshift assembly line for mass producing sellable pens. (11/27/2019)
 
 
 ### Pepperwood Slimline 
 
-<img src="PepperwoodSlimlinepen.jpg" height="800" width="600">
+<img src="PepperwoodSlimlinepen.JPG" height="800" width="600">
 
 One of the few woods at our house that can hold the difficult pose of being a pen, Pepperwood has a great color that matches well with the gold of the pen kit. I tried to make this pen increditable thin which risks the wood cracking but feels great in the hand when writing. It was successful and I added subtle waves for style on the upper tube.(11/27/2019)
 
 
 ### Mystery Wood Slimline
 
-<img src="UnknownWoodSlimlinePen.jpg" height="800" width="600">
+<img src="UnknownWoodSlimlinePen.JPG" height="800" width="600">
 
 This piece was in the inventory but I have no idea where this wood came from. I need to improve my wood accounting skills I guess. Although theories exist for its type, I am not confident enough to say one way or the other. It made a good looking pen though. There were some issues with the wood getting dirty from lubricant that seeped out of the pen mandrel threads. I fixed this by cleaning the mandrel and removing the outter layer of wood that was stained. Light colored, pourous woods like these have had a tendancy to soak up sawdust, lubricant, and other impurities that ruin the color. A comprehensive solution is in the works. (11/27/2019)
 
 
 ### Purple-Painted Slimline
 
-<img src="PurplePaintedSlimline.jpg" height="800" width="600">
+<img src="PurplePaintedSlimline.JPG" height="800" width="600">
 
 This pen was an experiment with some scrap wood that actually turned out nice. It was only roughly sanded before painting to prevent it from having a completely uniform, unnatural look. The roughness gives a fabric like appearance in my opinion. Unlike other pens, it is sealed with glue (rather than wood oil and wax).(11/27/2019)
 
 
 ### Ipe Slimline
 
-<img src="PurplePaintedSlimline.jpg" height="800" width="600">
+<img src="PurplePaintedSlimline.JPG" height="800" width="600">
 
 Second favorite from this batch, the Ipe wood looks great on this pen kit. The shape is simple but bold for this pen and assists in grip.(11/27/2019)
