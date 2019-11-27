@@ -51,7 +51,7 @@ This spoon was given as a gift to a very good friend of mine on her birthday. Th
 This scrap magnolia piece revealed a beautiful grain. The spoon is bent at the connection between the scoop and the handle. Additionally, this spoon has a loop at the end, which functions aesthetically and for ease of storage. The exposed bark on the side of the scoop is not a mistake, rather it gives the spoon character.
 
 ### Spoon - Unknown Wood
-<img src="PepperWoodSpoon.jpg" width="600" height="400">  
+<img src="UnknownWoodSpoon.jpg" width="600" height="400">  
 
 Turned from a quality piece of wood lieing around, this spoon is slightly bent where the handle meets the scoop. Possibly due to the wood's inherent hardness, this spoon is sanded very smooth. I don't know the origin of this wood. Short, with a wide, bent scoop this spoon is ideal as a eating utensil, not a cooking one like many of the others.
 
