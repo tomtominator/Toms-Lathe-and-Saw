@@ -53,7 +53,7 @@ I modeled this pen after the symbol for infinity. I wanted it to be as symmetric
 
 ### Wenge Gatsby 
 
-<img src="WengeGatsbyPen.JPG" height="800" width="600">
+<img src="WengeGatsbyPen.JPG" height="800" width="600"> 
 
 The Gatsby pen model is still my favorite for its superior balance and style. Experimenting with a new coating technique using glue instead of wood oil caused this pen to look like it is coating in glass. This is also the first of many pens that will be made with a new set of exotic woods I bought for pen making. Wenge is from Central Africa and is an endangered species. However, this piece was sourced responsibly.
 
@@ -74,14 +74,14 @@ One of the few woods at our house that can hold the difficult pose of being a pe
 
 ### Mystery Wood Slimline
 
-<img src="UnknownWoodSlimlinePen.jpg" height="800" width="600">
+<img src="UnknownWoodSlimlinePen.JPG" height="800" width="600">
 
 This piece was in the inventory but I have no idea where this wood came from. I need to improve my wood accounting skills I guess. Although theories exist for its type, I am not confident enough to say one way or the other. It made a good looking pen though. There were some issues with the wood getting dirty from lubricant that seeped out of the pen mandrel threads. I fixed this by cleaning the mandrel and removing the outter layer of wood that was stained. Light colored, pourous woods like these have had a tendancy to soak up sawdust, lubricant, and other impurities that ruin the color. A comprehensive solution is in the works. (11/27/2019)
 
 
 ### Purple-Painted Slimline
 
-<img src="PurplePaintedSlimline.jpg" height="800" width="600">
+<img src="PurplePaintedSlimlinePen.jpg" height="800" width="600">
 
 This pen was an experiment with some scrap wood that actually turned out nice. It was only roughly sanded before painting to prevent it from having a completely uniform, unnatural look. The roughness gives a fabric like appearance in my opinion. Unlike other pens, it is sealed with glue (rather than wood oil and wax).(11/27/2019)
 
