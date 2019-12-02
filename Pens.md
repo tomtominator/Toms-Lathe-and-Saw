@@ -67,7 +67,7 @@ My new favorite pen, the unorthodox shape I tried on this one had great results 
 
 ### Pepperwood Slimline 
 
-<img src="PepperwoodSlimlinepen.JPG" height="800" width="600">
+<img src="PepperwoodSlimlinePen.JPG" height="800" width="600">
 
 One of the few woods at our house that can hold the difficult pose of being a pen, Pepperwood has a great color that matches well with the gold of the pen kit. I tried to make this pen increditable thin which risks the wood cracking but feels great in the hand when writing. It was successful and I added subtle waves for style on the upper tube.(11/27/2019)
 
@@ -81,7 +81,7 @@ This piece was in the inventory but I have no idea where this wood came from. I 
 
 ### Purple-Painted Slimline
 
-<img src="PurplePaintedSlimlinePen.jpg" height="800" width="600">
+<img src="PurplePaintedSlimlinePen.JPG" height="800" width="600">
 
 This pen was an experiment with some scrap wood that actually turned out nice. It was only roughly sanded before painting to prevent it from having a completely uniform, unnatural look. The roughness gives a fabric like appearance in my opinion. Unlike other pens, it is sealed with glue (rather than wood oil and wax).(11/27/2019)
 
