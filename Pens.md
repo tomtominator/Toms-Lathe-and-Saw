@@ -88,7 +88,7 @@ This pen was an experiment with some scrap wood that actually turned out nice. I
 
 ### Ipe Slimline
 
-<img src="IpeSlimlinePen.JPG" height="800" width="600">
+<img src="IPESlimlinePen.jpg" height="800" width="600">
 
 Second favorite from this batch, the Ipe wood looks great on this pen kit. The shape is simple but bold for this pen and assists in grip.(11/27/2019)
 
