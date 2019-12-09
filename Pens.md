@@ -97,3 +97,15 @@ Second favorite from this batch, the Ipe wood looks great on this pen kit. The s
 <img src="" height="800" width="600">
 
 This wood has amazing color but long thin tunnels inside I presume carried water. These tunnels caused problems with the surface of the pen when finishing. The solution was a thin coating of CA glue, not pressed on, gently brushed across the surface. It filled in the holes nicely but left a strange texture from the napkin I used to brush it on. Although difficult to notice, I will have to use something super smooth next time I use this technique. Otherwise, I think this is the best pen I have made yet. The design is bold to match the color and glue coating gives a glasslike shine to the surface. (12/1/2019)
+
+### Purpleheart Gatsby (Click)
+
+<img src="PurpleheartGatsbyClickPen.jpg" height="800" width="600">
+
+Another highly successful project, this was the first click pen I have made. I like the click mechanism more than the twist, although it tends to rattle around when clicked down. The solution for that is to make the end cap have a tighter fit on the pen. The curve on this pen goes down before it comes back up. This is risky as you might run out of wood on the way down. However, for this pen it worked great to give the pen a comfortable writing hold, beautiful shape, and advance the illusion that it is wood all the way through. (12/7/2019)
+
+### Bolivian Rosewood Slimline
+
+<img src="BolivianRosewoodSlimlinePen.jpg" height="800" width="600">
+
+Slimlines aren't my favorite as I like a thicker pen. This one turned out great though and really highlights the beauty of the rosewood. (12/7/2019)
