@@ -3,13 +3,13 @@
 This website is meant to display my woodworking projects. Unfortunately nothing is for sale, yet. This site is a work in progress. Click the text below to view various pens and spoons I've made.
 # Pens 
 
-<img src="ThemeImgPens.jpg" width= "400" height="300">
+<img src="ThemeImgPens.jpg" width= "800" height="600">
 
 [View Pens](Pens.md)
 
 # Spoons
 
-<img src="ThemeImgSpoons.jpg" width= "400" height="300">
+<img src="ThemeImgSpoons.jpg" width= "800" height="600">
 
 [View Spoons](Spoons.md)
 
