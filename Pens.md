@@ -94,7 +94,7 @@ Second favorite from this batch, the Ipe wood looks great on this pen kit. The s
 
 ### African Padauk Executive
 
-<img src="" height="800" width="600">
+<img src="ComingSoon.jpg" height="800" width="600">
 
 This wood has amazing color but long thin tunnels inside I presume carried water. These tunnels caused problems with the surface of the pen when finishing. The solution was a thin coating of CA glue, not pressed on, gently brushed across the surface. It filled in the holes nicely but left a strange texture from the napkin I used to brush it on. Although difficult to notice, I will have to use something super smooth next time I use this technique. Otherwise, I think this is the best pen I have made yet. The design is bold to match the color and glue coating gives a glasslike shine to the surface. (12/1/2019)
 
