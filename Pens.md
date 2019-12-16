@@ -109,3 +109,40 @@ Another highly successful project, this was the first click pen I have made. I l
 <img src="BolivianRosewoodSlimlinePen.JPG" height="800" width="600">
 
 Slimlines aren't my favorite as I like a thicker pen. This one turned out great though and really highlights the beauty of the rosewood. (12/7/2019)
+
+
+*-------------*
+*Fall 2019 Set*
+*-------------*
+
+
+### Gongolo Alves Executive
+
+<img src="GongoloAlvesExecutivePen.JPG" height="800" width="600">
+
+The grain pattern of this wood is my favorite even over bocote, paduak, or wenge. The way it blends light and dark colored wood fibers gives amazing patterns. For this one, I took care to set the ridge where my hand would rest when writing. The ridge, aside from being ergonomic, is meant to highlight the beautiful grain. I'd like to point out the diamond shape created by the contour of the ridge as a defining feature that made this pen great. (12/15/2019)
+
+### Cocobolo Executive
+
+<img src="CocoboloExecutivePen.JPG" height="800" width="600">
+
+The most modest of the set, this pen was coated in CA glue which was then sanded off. After lacor and wax, the pores in the wood that were filled in previously by the CA glue shimmer in the light. This effect is especially striking against the deep, dark color of the cocobolo. This is my new technique of choice for woods with deep pores that can't be sanded away. It fills them in without sacrificing the great natural texture of the wood with a full CA coating.(12/15/2019)
+
+### Bocote Executive
+
+<img src="BocoteExecutivePen.JPG" height="800" width="600">
+
+My new favorite pen!(again) Unlike my first bocote, I did not wet sand this one. This meant that the lighter, more porous section of the wood didn't absorb the dark sanded away material. For this pen, I wanted a bold contrast between the grain colors because of the beautiful pattern derived from its subtle shape. I perfected my sanding/polishing technique without using water on this pen. This is extremely valuable in the future when working with lighter colored wood.(12/15/2019)
+
+ 
+*-------------*
+*Set Finished*
+*-------------*
+ 
+
+### Leopardwood Gatsby
+
+<img src="LeopardwoodGatsbyPen.JPG" height="800" width="600">
+
+A truely beautiful and exotic pen. This pen was created to dazzle which is why I used the leopardwood. Here again, the shape of the pen was to best display the grain. Without the strange shape, the circlar patterns at each ridge wouldn't appear. Despite the interesting shape, I quite like how the pen feels writing.(12/16/2019)
+
