@@ -1,6 +1,9 @@
 # Thomas Woodworking Co.
 
-This website is meant to display my woodworking projects. Unfortunately nothing is for sale, yet. This site is a work in progress. Click the text below to view various pens and spoons I've made.
+This site is meant to display my woodworking projects.  
+
+**If you purchased a pen and it contains an ID number, you can view a photo and thoughts behind making it. This information is in [Pens](Pens.md).** 
+
 # Pens 
 
 <img src="ThemeImgPens.jpg" width= "400*4/3" height="400">
@@ -24,14 +27,13 @@ Dead trees are given new life and beauty through these projects. As projects usu
 
 ### Eucalyptus
 
-<img src="EucalyptusTree.jpg" width="200" height="300"> <img src="EucalyptusWood.jpg" width="200" height="300">  
+<img src="EucalyptusTree.jpg" width="300" height="400"> <img src="EucalyptusWood.jpg" width="300" height="400">  
 
 ### Pine
 
 Taken from a felled tree in our neighborhood, 
 
-<img src="PineWoodPile.jpg" width="225" height="300">
+<img src="PineWoodPile.jpg" width="300" height="400">
 
-Beyond what wood is taken from around my house, I also purchase small exotic blanks for pen turning:
 
 [Go to Top](#Thomas-Woodworking-Co)
