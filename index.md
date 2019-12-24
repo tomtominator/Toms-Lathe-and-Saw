@@ -2,7 +2,7 @@
 
 This site is meant to display my woodworking projects.  
 
-**If you purchased a pen and it contains an ID number, you can view a photo and thoughts behind making it. This information is in [Pens](Pens.md).** 
+**If you purchased a pen and it contains an ID number, you can view a photo and thoughts behind making it. This information is in [Pens](Pens.md).** (Not all pens contain IDs and corresponding photos.)
 
 # Pens 
 
