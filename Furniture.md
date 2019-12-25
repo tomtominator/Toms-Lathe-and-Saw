@@ -1,7 +1,7 @@
 # Furniture
 
 
-### Picnic Table
+## Picnic Table
 
 My mom wanted a  table modeled after the ones at Zuma Beach. They were the basic picnic table frame made from heavy 2x6s and 2x8s. When making this table I used 2x4s and 2x6s to save on weight and money. Most notably they were painted yellow. We found the perfect shade at Dunn Edwards and it glows to this day.  
   
@@ -10,10 +10,10 @@ Assembling frames of the table:
 <img src="PicnicTableFrame.jpg" height="800" width="600">
   
 Here the tabletop and benchtops, which hold the frame together, are being screwing in:
-<img src="PicnicTableUnpainted.jpg" height="800" width="600">
-
-
-### Birch Sidetable
+<img src="PicnicTableUnpainted.jpg" height="800" width="600">  
+  
+    
+## Birch Sidetable
 
 Another mom commission. I slide into our old sidetable and broke it.
 
