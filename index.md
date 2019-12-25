@@ -16,7 +16,11 @@ This site is meant to display my woodworking projects.
 
 [View Spoons](Spoons.md)
 
+# Furniture 
 
+<img src="ComingSoon.jpg" width= "400*4/3" height="400">
+
+[View Furniture](Furniture.md)
 
 ## Crafted from Local Wood
 Dead trees are given new life and beauty through these projects. As projects usually don't require large amounts of wood, most wood is sourced from my backyard, especially wood for spoons.  Here are photos showing various types of trees I use and their respective grain coloring:  
