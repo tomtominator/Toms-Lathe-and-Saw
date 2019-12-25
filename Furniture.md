@@ -15,18 +15,18 @@ Here the tabletop and benchtops, which hold the frame together, are being screwi
     
 ## Birch Sidetable
 
-Another mom commission. I slide into our old sidetable and broke it.
+Another mom commission. I slid into our old one and broke it.
 
 The top is a combination of birch and a maple centerpiece cut with my new tablesaw. 
-<img src="SidetableTopUnlacored.jpg" height="800" width="600">
+<img src="SidetableTopUnlacored.JPG" height="800" width="600">
   
 The table will be connected to the legs via this frame also made of finished birch.
-<img src="SidetableUnderneath.jpg" height="800" width="600">
+<img src="SidetableUnderneath.JPG" height="800" width="600">
   
 The legs were turned out of pine planks glued together, this was to save on cost since we spent all our money on the finished birch.
-<img src="SidetableLeg.jpg" height="800" width="600">
+<img src="SidetableLeg.JPG" height="800" width="600">
   
 This is what the tabletop looks finished with mineral oil.  
-<img src="SidetableTopLacored.jpg" height="800" width="600">
+<img src="SidetableTopLacored.JPG" height="800" width="600">
 
 
