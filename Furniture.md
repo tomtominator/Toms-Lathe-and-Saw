@@ -29,4 +29,11 @@ The legs were turned out of pine planks glued together, this was to save on cost
 This is what the tabletop looks finished with mineral oil.  
 <img src="SidetableTopLacored.JPG" height="800" width="600">
 
+### Spice Racks
+
+A simple project. Unfortunately, I didn't have any paint.
+
+<img src="SpiceRackEmpty.jpg" height="800" width="600">
+<img src="SpiceRackFull.jpg" height="800" width="600">
+
 
