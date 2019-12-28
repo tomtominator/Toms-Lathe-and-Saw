@@ -3,7 +3,7 @@
 
 ## Picnic Table
 
-My mom wanted a  table modeled after the ones at Zuma Beach. They were the basic picnic table frame made from heavy 2x6s and 2x8s. When making this table I used 2x4s and 2x6s to save on weight and money. Most notably they were painted yellow. We found the perfect shade at Dunn Edwards and it glows to this day.  
+My mom wanted a  table modeled after the ones at Zuma Beach. They were the basic picnic table frame made from heavy 2x6s and 2x8s. When making this table I used 2x4s and 2x6s to save on weight and money. Most notably they were painted yellow. We found the perfect shade at Dunn Edwards and it glows to this day. (7/22/2018)
   
 
 Assembling frames of the table:
@@ -15,7 +15,7 @@ Here the tabletop and benchtops, which hold the frame together, are being screwi
     
 ## Birch Sidetable
 
-Another mom commission. I slid into our old one and broke it.
+Another mom commission. I slid into our old one and broke it.(12/25/2019)
 
 The top is a combination of birch and a maple centerpiece cut with my new tablesaw. 
 <img src="SidetableTopUnlacored.JPG" height="800" width="600">
@@ -29,9 +29,33 @@ The legs were turned out of pine planks glued together, this was to save on cost
 This is what the tabletop looks finished with mineral oil.  
 <img src="SidetableTopLacored.JPG" height="800" width="600">
 
+### Access Stairs
+These stairs  are to access our hill where many plants are grown. We used to climb up the brick wall but it was starting to collaspe and I didn't want to knock down more dirt by climbing up the dirt. These stairs make getting on to the trail much easier.  
+  
+  They are bolted to a concrete foundation with lag bolts. If I do it over again, I would make the stairs wider but everything else turned out great.(2/5/2018)
+
+<img src="StairsFoundation.jpg" height="800" width="600">
+<img src="StairsFrame.jpg" height="800" width="600">
+<img src="StairsLevel.jpg" height="600" width="800">
+
+
+### Hamster Table
+
+A wooden table for utility, I made it out of pine. It looks ugly but it is super sturdy and functional. On top sits my brother's handmade hamster cage. Although I'm not fond of hamsters, I am fond of making tables for functionality rather than looks.(3/3/2019)
+
+<img src="HamsterTable.jpg" height="800" width="600">
+<img src="HamsterTableAndCage.jpg" height="800" width="600">
+
+
+### Display Case
+A display case made of scrap wood and a piece of plexi. All these bones were found on the hill along with the sand. I think the jaw and matching skull is a coyete's and the vertebrate likely a deer's. The skull, I'm not sure: could be a rabbit, really big gopher, or something else. (2/13/2018)
+
+<img src="DisplayCase.jpg" height="600" width="800">
+<img src="DisplayCaseSide.jpg" height="600" width="800">
+
 ### Spice Racks
 
-A simple project. Unfortunately, I didn't have any paint.
+A simple project. Unfortunately, I didn't have any paint.(4/7/2018)
 
 <img src="SpiceRackEmpty.jpg" height="800" width="600">
 <img src="SpiceRackFull.jpg" height="800" width="600">
