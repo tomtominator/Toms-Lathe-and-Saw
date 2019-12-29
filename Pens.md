@@ -142,6 +142,7 @@ _________
 
 | *-------------* *Fall 2019 Set* *-------------* |
 |            :---:             |
+| does this help |
   
   
 ### Bocote Executive
@@ -174,6 +175,7 @@ The most modest of the set, this pen was coated in CA glue which was then sanded
    
 | *-------------* *Set Finished* *-------------* |
 |      :---:      |
+|      |
 
  _________  
 
