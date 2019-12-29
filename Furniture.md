@@ -87,7 +87,7 @@ _________
 
 ## Spice Racks
 
-A simple project but getting the angle right to make it fit in the drawer was quite difficult. Unfortunately, I didn't have any paint.(4/7/2018)
+A simple project but getting the angle right to make it fit in the drawer was quite difficult. Unfortunately, I didn't have any paint at the time. Its ok though because the spices cover up the ugly plywood.(4/7/2018)
 
 <img src="SpiceRackEmpty.jpg" height="800" width="600">
 <img src="SpiceRackFull.jpg" height="800" width="600">
