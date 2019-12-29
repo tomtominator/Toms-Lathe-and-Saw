@@ -65,4 +65,9 @@ A simple project but getting the angle right to make it fit in the drawer was qu
 <img src="SpiceRackEmpty.jpg" height="800" width="600">
 <img src="SpiceRackFull.jpg" height="800" width="600">
 
+## Foot-rest Cover
 
+**I did not make the foot-rest**, but I did sew the cover. I think this is loosely related to furniture and it turned out great so here it is. (12/9/2018)
+
+<img src="FootRestCovered.jpg" height="800" width="600">
+<img src="FootRestUncovered.jpg" height="800" width="600">
