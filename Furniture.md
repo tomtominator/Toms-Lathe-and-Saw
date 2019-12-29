@@ -23,10 +23,10 @@ This is what the tabletop looks finished with mineral oil.
 <img src="SidetableTopLacored.JPG" height="800" width="600">
 
 Paper was used when glueing to prevent glue from wandering. If the paper was glued on to the wood, it could be easliy sanded away.
-<img src="SidetableBaseGlueing.JPG" height="800" width="600">  
+<img src="SidetableGlueingBase.JPG" height="800" width="600">  
 <img src="SidetableGlueingLeg.JPG" height="800" width="600">  
 <img src="SidetableLegsFinished.JPG" height="800" width="600">  
-<img src="SidetableFinished.JPG" height="800" width="600">
+<img src="SidetableFinish.JPG" height="800" width="600">
 
 ## Picnic Table
 
