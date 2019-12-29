@@ -142,7 +142,8 @@ _________
 
 | *-------------* *Fall 2019 Set* *-------------* |  
 
-| hey whats up|
+| hey whats up |
+| :---:        |
   
   
 ### Bocote Executive
