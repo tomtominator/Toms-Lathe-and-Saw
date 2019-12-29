@@ -58,8 +58,12 @@ These stairs  are to access our hill where many plants are grown. We used to cli
   
   They are bolted to a concrete foundation with lag bolts. If I do it over again, I would make the stairs wider but everything else turned out great.(2/5/2018)
 
-<img src="StairsFoundation.jpg" height="800" width="600">
-<img src="StairsFrame.JPG" height="800" width="600">
+<img src="StairsFoundation.jpg" height="800" width="600">  
+
+The frame was cut from a 2x8 to hold the individual stairs:
+<img src="StairsFrame.JPG" height="800" width="600">  
+
+Super Level!
 <img src="StairsLevel.JPG" height="600" width="800">
 
 _________  
