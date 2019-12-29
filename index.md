@@ -1,9 +1,12 @@
 # Thomas Woodworking Co.
-___________
-This site is meant to display my woodworking projects. In each section, there is a "My favorite ____" for quick viewing of some of my best work.
-___________
-**If you purchased a pen and it contains an ID number, you can view a photo and thoughts behind making it. This information is in [Pens](Pens.md).** (Not all pens contain IDs and corresponding photos.)
 
+This site is meant to display my woodworking projects. In each section, there is a "My favorite ____" for quick viewing of some of my best work.  
+
+___________
+**If you purchased a pen and it contains an ID number, you can view a photo and thoughts behind making it. This information is in [Pens](Pens.md).**   
+(Not all pens contain IDs and corresponding photos.)  
+
+___________
 # Pens 
 
 <img src="ThemeImgPens.jpg" width= "400*4/3" height="400">
