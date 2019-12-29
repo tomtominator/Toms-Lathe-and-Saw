@@ -21,7 +21,7 @@ ___________
 
 # Furniture 
 
-<img src="SideTableInPlace.jpg" width= "400" height="400*4/3">
+<img src="SideTableInPlace.JPG" width= "400" height="400*4/3">
 
 [View Furniture](Furniture.md)
 
