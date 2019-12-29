@@ -6,6 +6,8 @@ Furniture projects are much bigger than spoon or pen projects and as a result ar
 
 [My Favorite Piece of Furniture](#birch-sidetable)
 
+_________  
+
 ## Birch Sidetable
 
 I broke our old table. So I made a new one.
@@ -22,11 +24,21 @@ The table will be connected to the legs via this frame also made of finished bir
 This is what the tabletop looks finished with mineral oil.  
 <img src="SidetableTopLacored.JPG" height="800" width="600">
 
-Paper was used when glueing to prevent glue from wandering. If the paper was glued on to the wood, it could be easliy sanded away.
+Paper was used when glueing to prevent glue from wandering. If the paper was glued on to the wood, it could be easliy sanded away.  
+ Glueing the base together using a square block to ancor the clamps to:
 <img src="SidetableGlueingBase.JPG" height="800" width="600">  
+
+Glueing in the legs and dowl struts simultanously:
 <img src="SidetableGlueingLeg.JPG" height="800" width="600">  
+
+The legs and struts are completely glued to the base. The paper will be removed by scraping and sanding:
 <img src="SidetableLegsFinished.JPG" height="800" width="600">  
-<img src="SidetableFinish.JPG" height="800" width="600">
+
+The finished product. 4 Screws were used to further anchor the legs to the base. The tabletop was glued to the legs, base combination.
+<img src="SidetableFinish.JPG" height="800" width="600">  
+
+
+_________  
 
 ## Picnic Table
 
@@ -39,6 +51,7 @@ Assembling frames of the table:
 Here the tabletop and benchtops, which hold the frame together, are being screwing in:
 <img src="PicnicTableUnpainted.jpg" height="800" width="600">  
   
+_________  
 
 ## Access Stairs
 These stairs  are to access our hill where many plants are grown. We used to climb up the brick wall but it was starting to collaspe and I didn't want to knock down more dirt by climbing up the dirt. These stairs make getting on to the trail much easier.  
@@ -49,6 +62,7 @@ These stairs  are to access our hill where many plants are grown. We used to cli
 <img src="StairsFrame.JPG" height="800" width="600">
 <img src="StairsLevel.JPG" height="600" width="800">
 
+_________  
 
 ## Hamster Table
 
@@ -57,6 +71,7 @@ A wooden table for utility, I made it out of pine. It looks ugly but it is super
 <img src="HamsterTable.jpg" height="800" width="600">
 <img src="HamsterTableAndCage.jpg" height="800" width="600">
 
+_________  
 
 ## Display Case
 A display case made of scrap wood and a piece of plexi. All these bones were found on the hill along with the sand. I think the jaw and matching skull is a coyete's and the vertebrate likely a deer's. The skull, I'm not sure: could be a rabbit, really big gopher, or something else. (2/13/2018)
@@ -64,12 +79,16 @@ A display case made of scrap wood and a piece of plexi. All these bones were fou
 <img src="DisplayCase.jpg" height="600" width="800">
 <img src="DisplayCaseSide.jpg" height="600" width="800">
 
+_________  
+
 ## Spice Racks
 
 A simple project but getting the angle right to make it fit in the drawer was quite difficult. Unfortunately, I didn't have any paint.(4/7/2018)
 
 <img src="SpiceRackEmpty.jpg" height="800" width="600">
 <img src="SpiceRackFull.jpg" height="800" width="600">
+
+_________  
 
 ## Foot-rest Cover
 
