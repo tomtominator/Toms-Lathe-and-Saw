@@ -2,7 +2,9 @@
 
 Handcrafted using a lathe, carving, and a lot of sanding. Wood used for spoons is all locally sourced. Below are the general steps to constructing most spoons but each project is slightly different.  
 
-[Return Home](index.md)
+[Return Home](index.md)  
+
+[My Favorite Spoon](#mother's-day-present)
 
 ### Shaping
 <img src="SpoonBlank1.jpg" width="300" height="200">  
@@ -48,14 +50,15 @@ This spoon was given as a gift to a very good friend of mine on her birthday. Th
 
 <img src="MagnoliaSpoonBack.jpg" width="600" height="800">
 
-This scrap magnolia piece revealed a beautiful grain. The spoon is bent at the connection between the scoop and the handle. Additionally, this spoon has a loop at the end, which functions aesthetically and for ease of storage. The exposed bark on the side of the scoop is not a mistake but meant to remind the viewer the origin of the material. In a current state so foreign from a log, it is very easy to forget.
+This scrap magnolia piece revealed a beautiful grain. The spoon is bent at the connection between the scoop and the handle. Notice the tiny cracks that formed when bending. I believe this is because I didn't heat up the fibers of the wood as much as needed. There is a slight delay when I take the spoon out of the heater and to the vice. I believe this allows the fibers to cool enough so that they aren't as mobile as I want them to be. Additionally, this spoon has a loop at the end, which functions aesthetically and for ease of storage. The exposed bark on the side of the scoop is not a mistake but meant to remind the viewer the origin of the material. In a current state so foreign from a log, it is very easy to forget.
 
 ### Spoon - Unknown Wood
 <img src="UnknownWoodSpoon.jpg" width="600" height="400">  
 
 Turned from a quality piece of wood lying around, this spoon is slightly bent where the handle meets the scoop. Possibly due to the wood's inherent hardness, this spoon is sanded very smooth. I don't know the origin of this wood. Short, with a wide, bent scoop this spoon is ideal as a eating utensil, not a cooking one like many of the others.
 
-### Mother's Day Present - Cyprus Spoon
+### Mother's Day Present
+### Cyprus Spoon
 
 <img src="CyprusSpoonFront.jpg" width="600" height="900">
 

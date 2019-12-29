@@ -5,7 +5,9 @@ Unlike spoons, I make pens using both purchased wood blanks as well as wood from
 
 The pens are denoted (wood type) then (pen kit type).
 
-[Return Home](index.md)
+[Return Home](index.md)  
+
+[My Favorite Pen](#bocote-executive)
 
 ### Redheart Gatsby 
 

@@ -1,5 +1,11 @@
 # Furniture
 
+Furniture projects are much bigger than spoon or pen projects and as a result are fewer and further between. However, I have been building furnite much longer than I have been making pens and spoons but much of that content is not on this site.
+
+[Return Home](index.md)
+
+[My Favorite Piece of Furniture](#birch-sidetable)
+
 ## Birch Sidetable
 
 I broke our old table. So I made a new one.
