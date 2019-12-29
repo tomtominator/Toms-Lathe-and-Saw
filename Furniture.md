@@ -22,12 +22,14 @@ The top is a combination of birch and a maple centerpiece cut with my new tables
   
 The table will be connected to the legs via this frame also made of finished birch.
 <img src="SidetableUnderneath.JPG" height="800" width="600">
-  
-The legs were turned out of pine planks glued together, this was to save on cost since we spent all our money on the finished birch.
-<img src="SidetableLeg.JPG" height="800" width="600">
-  
+    
 This is what the tabletop looks finished with mineral oil.  
 <img src="SidetableTopLacored.JPG" height="800" width="600">
+
+Paper was used when glueing to prevent glue from wandering. If the paper was glued on to the wood, it could be easliy sanded away.
+<img src="SidetableBaseGlueing.JPG" height="800" width="600">
+<img src="SidetableLegGlueing.JPG" height="800" width="600">
+<img src="SidetableLegsFinished.JPG" height="800" width="600">
 
 ### Access Stairs
 These stairs  are to access our hill where many plants are grown. We used to climb up the brick wall but it was starting to collaspe and I didn't want to knock down more dirt by climbing up the dirt. These stairs make getting on to the trail much easier.  
