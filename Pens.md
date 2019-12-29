@@ -132,6 +132,7 @@ _________
 ID: 21  
 
 Another highly successful project, this was the first click pen I have made. I like the click mechanism more than the twist, although it tends to rattle around when clicked down. The solution for that is to make the end cap have a tighter fit on the pen. The curve on this pen goes down before it comes back up. This is risky as you might run out of wood on the way down (and hit the brass tubing underneath that contains the pen mechanism). However, for this pen it worked great to give the pen a comfortable writing hold and beautiful shape. (12/7/2019)
+
 _________  
 
 _________  
@@ -150,6 +151,7 @@ _________
 ID: 22  
 
 My new favorite pen!(again) Unlike my first bocote, I did not wet sand this one. This meant that the lighter, more porous section of the wood didn't absorb the dark sanded away material and become darker. This perserved the stark contrast between grain lines natural to bocote wood. I wanted a bold contrast between the grain colors because of the beautiful pattern derived the 2 subtle high points at the ends of the pen. I perfected my sanding/polishing technique without using water on this pen. This technique is extremely valuable in the future when working with lighter colored wood.(12/15/2019)
+
 _________  
 
 ### Gongolo Alves Executive
@@ -158,6 +160,7 @@ _________
 ID: 23  
 
 The grain pattern of this wood is my favorite over bocote, paduak, or wenge. The way it blends light and dark colored wood fibers gives amazing patterns. For this one, I took care to set the ridge where my hand would rest when writing. The ridge, aside from being ergonomic, is meant to highlight the beautiful grain and give the pen a sleek look with the 'sharp' edge. I'd like to point out the diamond shape created by the contour of the ridge as a defining feature that makes this pen great. (12/15/2019)
+
 _________  
 
 ### Cocobolo Executive
@@ -166,12 +169,14 @@ _________
 ID: 24  
 
 The most modest of the set, this pen was coated in CA glue which was then sanded off. After lacor and wax, the pores in the wood that were filled in previously by the CA glue shimmer in the light. This effect is especially striking against the deep, dark color of the cocobolo. This is my new technique of choice for woods with deep pores that can't be sanded away. It fills them in without sacrificing the great natural texture of the wood with a full CA coating.(12/15/2019)
+
  _________  
  
    
 *-------------*
 *Set Finished*
 *-------------*
+
  _________  
 
 _________  
