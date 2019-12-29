@@ -121,8 +121,10 @@ _________
 <img src="BolivianRosewoodSlimlinePen.JPG" height="800" width="600">
 ID: 20  
 
-Slimlines aren't my favorite as I like a thicker pen. This one turned out great though and really highlights the beauty of the rosewood.  (12/7/2019)
+Slimlines aren't my favorite as I like a thicker pen. This one turned out great though and really highlights the beauty of the rosewood.(12/7/2019)
+
 _________  
+
 
 ### Purpleheart Gatsby (Click)
 
@@ -131,8 +133,11 @@ ID: 21
 
 Another highly successful project, this was the first click pen I have made. I like the click mechanism more than the twist, although it tends to rattle around when clicked down. The solution for that is to make the end cap have a tighter fit on the pen. The curve on this pen goes down before it comes back up. This is risky as you might run out of wood on the way down (and hit the brass tubing underneath that contains the pen mechanism). However, for this pen it worked great to give the pen a comfortable writing hold and beautiful shape. (12/7/2019)
 _________  
+
 _________  
+
 _________  
+
 
 *-------------*
 *Fall 2019 Set*
@@ -168,8 +173,11 @@ The most modest of the set, this pen was coated in CA glue which was then sanded
 *Set Finished*
 *-------------*
  _________  
+
 _________  
+
 _________  
+
 
 
 ### Leopardwood Gatsby
