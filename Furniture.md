@@ -12,7 +12,7 @@ I broke our old table. So I made a new one.
 
 The top is a combination of birch and a maple centerpiece cut with my new tablesaw I got for my birthday. I also drew the picture of the eagle attacking the snake just peaking out in the photo above it. Very proud of that too.(12/25/2019)
 
-<img src="SidetableInPlace.JPG" height="800" width="600">  
+<img src="SidetableInHouse.JPG" height="800" width="600">  
 
 <img src="SidetableTopUnlacored.JPG" height="800" width="600">
   
