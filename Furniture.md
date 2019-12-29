@@ -12,7 +12,7 @@ I broke our old table. So I made a new one.
 
 The top is a combination of birch and a maple centerpiece cut with my new tablesaw I got for my birthday. I also drew the picture of the eagle attacking the snake just peaking out in the photo above it. Very proud of that too.(12/25/2019)
 
-<img src="SidetableInPlace.JPG" height="800" width="600">  
+<img src="SidetableInPlace.jpg" height="800" width="600">  
 
 <img src="SidetableTopUnlacored.JPG" height="800" width="600">
   
@@ -23,10 +23,10 @@ This is what the tabletop looks finished with mineral oil.
 <img src="SidetableTopLacored.JPG" height="800" width="600">
 
 Paper was used when glueing to prevent glue from wandering. If the paper was glued on to the wood, it could be easliy sanded away.
-<img src="SidetableBaseGlueing.JPG" height="800" width="600">  
-<img src="SidetableLegGlueing.JPG" height="800" width="600">  
+<img src="SidetableBaseGlueing.jpg" height="800" width="600">  
+<img src="SidetableLegGlueing.jpg" height="800" width="600">  
 <img src="SidetableLegsFinished.JPG" height="800" width="600">  
-<img src="SidetableFinished.JPG" height="800" width="600">
+<img src="SidetableFinished.jpg" height="800" width="600">
 
 ## Picnic Table
 
@@ -46,8 +46,8 @@ These stairs  are to access our hill where many plants are grown. We used to cli
   They are bolted to a concrete foundation with lag bolts. If I do it over again, I would make the stairs wider but everything else turned out great.(2/5/2018)
 
 <img src="StairsFoundation.jpg" height="800" width="600">
-<img src="StairsFrame.jpg" height="800" width="600">
-<img src="StairsLevel.jpg" height="600" width="800">
+<img src="StairsFrame.JPG" height="800" width="600">
+<img src="StairsLevel.JPG" height="600" width="800">
 
 
 ## Hamster Table
