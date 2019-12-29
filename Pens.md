@@ -21,9 +21,7 @@ _________
 
 <img src="BocateCubanPen.JPG" height="950" width="600">
 
-Turned out of bocate wood which has a increditable grain pattern. Taking my knowledge from the
-
-[redheart gatsby pen](#redheart-gatsby-pen), I put a little more style into this pen while still letting the grain be the main focus. This pen is larger and heavier than the redheart but still has a nice balance in the hand.
+Turned out of bocate wood which has a increditable grain pattern. Taking my knowledge from the Redheart Gatsby Pen, I put a little more style into this pen while still letting the grain be the main focus. This pen is larger and heavier than the redheart but still has a nice balance in the hand.
 
 _________  
 
