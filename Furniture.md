@@ -12,7 +12,7 @@ I broke our old table. So I made a new one.
 
 The top is a combination of birch and a maple centerpiece cut with my new tablesaw I got for my birthday. I also drew the picture of the eagle attacking the snake just peaking out in the photo above it. Very proud of that too.(12/25/2019)
 
-<img src="SidetableInPlace.jpg" height="800" width="600">  
+<img src="SidetableInPlace.JPG" height="800" width="600">  
 
 <img src="SidetableTopUnlacored.JPG" height="800" width="600">
   
@@ -23,10 +23,10 @@ This is what the tabletop looks finished with mineral oil.
 <img src="SidetableTopLacored.JPG" height="800" width="600">
 
 Paper was used when glueing to prevent glue from wandering. If the paper was glued on to the wood, it could be easliy sanded away.
-<img src="SidetableBaseGlueing.jpg" height="800" width="600">  
-<img src="SidetableLegGlueing.jpg" height="800" width="600">  
+<img src="SidetableBaseGlueing.JPG" height="800" width="600">  
+<img src="SidetableLegGlueing.JPG" height="800" width="600">  
 <img src="SidetableLegsFinished.JPG" height="800" width="600">  
-<img src="SidetableFinished.jpg" height="800" width="600">
+<img src="SidetableFinished.JPG" height="800" width="600">
 
 ## Picnic Table
 
