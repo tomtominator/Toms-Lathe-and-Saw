@@ -38,7 +38,7 @@ Dead trees are given new life and beauty through these projects. As pen/spoon pr
 
 __________
 
-### Cyprus
+### Cypress
 
 Strangly enough, we have cyprus trees that have purple core wood. Looking online, I could find nothing else like this.
 

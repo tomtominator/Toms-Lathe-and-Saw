@@ -4,7 +4,7 @@ Handcrafted using a lathe, carving, and a lot of sanding. Wood used for spoons i
 
 [Return Home](index.md)  
 
-[My Favorite Spoon](#cyprus-spoon)
+[My Favorite Spoon](#cypress-spoon)
 
 __________  
 
@@ -52,7 +52,7 @@ Turned from a quality piece of wood lying around, this spoon is slightly bent wh
 __________  
 
 ### Mother's Day Present
-### Cyprus Spoon
+### Cypress Spoon
 
 <img src="CyprusSpoonFront.jpg" width="600" height="900">  
 
@@ -60,7 +60,7 @@ __________
 <img src="CyprusSpoonBack.jpg" width="600" height="900">  
 
 
-This spoon is made from an old dead cyprus that Mother planted that was taken from a seed of a tree my grandparents planted. I wanted to give her a spoon that captured something special to her. I also wanted to show my appreciation with a present she could use and one that would make her happy everytime she looked at it. The grain turned out to be the most beautiful out of any of the spoons I have made, displaying a fiery purple core that winds throughout the spoon.  
+This spoon is made from an old dead cypress that Mother planted that was taken from a seed of a tree my grandparents planted. I wanted to give her a spoon that captured something special to her. I also wanted to show my appreciation with a present she could use and one that would make her happy everytime she looked at it. The grain turned out to be the most beautiful out of any of the spoons I have made, displaying a fiery purple core that winds throughout the spoon.  
 
 
 __________  
