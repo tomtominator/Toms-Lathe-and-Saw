@@ -190,3 +190,13 @@ _________
 A truely beautiful and exotic pen. This pen was created to dazzle which is why I used the leopardwood. Here again, the shape of the pen was to best display the grain. Without the strange shape, the circlar patterns at each ridge wouldn't appear. Despite the interesting shape, I quite like how the pen feels writing.(12/16/2019)
 
 _________  
+
+### Yellowheart Gatsby Click
+
+<img src="YellowheartGatsbyClickPen.JPG" height="800" width="600">
+
+*Displayed on a yellowing walnut tree nested in a fold of our valley in the winter months.*
+
+
+I'm going to start displaying the plant type the pen is displayed with. My favorite color is yellow so I like this pen. However, the wood tends to look fake at times because its color is so unbelieveable. A yellow pen is much less dazzling than a wood pen that is yellow colored in my opinion. To get the darker sanded material out of all the pores of this pen(because it is yellow this material stood out) I buffed it throughoutly while varnishing with mineral oil. This worked well to push any dark impurities out of the pores of the wood.(12/29/2019)
+_________  

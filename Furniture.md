@@ -12,9 +12,9 @@ _________
 
 I broke our old table. So I made a new one.
 
-The top is a combination of birch and a maple centerpiece cut with my new tablesaw I got for my birthday. I also drew the picture of the eagle attacking the snake just peaking out in the photo above it. Very proud of that too.(12/25/2019)
+The top is a combination of birch and a maple centerpiece cut with my new tablesaw I got for my birthday. (12/25/2019)
 
-<img src="SidetableInHouse.JPG" height="800" width="600">  
+<img src="SidetablePlantBackground.JPG" height="800" width="600">  
 
 <img src="SidetableTopUnlacored.JPG" height="800" width="600">
   
@@ -36,6 +36,10 @@ The legs and struts are completely glued to the base. The paper will be removed 
 
 The finished product. 4 Screws were used to further anchor the legs to the base. The tabletop was glued to the legs, base combination.
 <img src="SidetableFinish.JPG" height="800" width="600">  
+
+Here is the sidetable in place:
+<img src="SidetableInPlace.JPG" height="800" width="600">  
+
 
 
 _________  
