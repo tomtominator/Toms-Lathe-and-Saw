@@ -10,11 +10,9 @@ _________
 
 ## Birch Sidetable
 
-I broke our old table. So I made a new one.
+This birch sidetable is a lighthearted table meant to greet next to the door. With light woods and a slight shimmer, it welcomes. The top is a combination of birch and a maple centerpiece. The legs are redwood with a birch peg lined for support and connected to a birch core.  (12/25/2019)
 
-The top is a combination of birch and a maple centerpiece cut with my new tablesaw I got for my birthday. (12/25/2019)
-
-<img src="SidetablePlantBackground.JPG" height="800" width="600">  
+<img src="SidetablePlantBackground.JPG" height="561" width="508">  
 
 <img src="SidetableTopUnlacored.JPG" height="800" width="600">
   
@@ -70,6 +68,20 @@ The frame was cut from a 2x8 to hold the individual stairs:
 Super Level!
 <img src="StairsLevel.JPG" height="600" width="800">
 
+_________  
+
+_________  
+
+_________  
+
+_________  
+
+_________  
+
+
+## Miscellaneous Items  
+
+### **for Functionality not Form**
 _________  
 
 ## Hamster Table
