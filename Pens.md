@@ -1,9 +1,6 @@
 # Pens
 
-Pens are created using pen kits bought from various suppliers.    
-Unlike spoons, I make pens using both purchased wood blanks as well as wood from home due to the importance of the hardness and density of the wood. The wood is turned very thin and precisely so blanks must be of the highest quality. 
-
-The pens are denoted (wood type) then (pen kit type).
+Pens are created using pen kits that provide the metal pieces on each pen. Sustainably sourced exotic hardwoods of the highest quality are used and each pen is completely unique. Pens are denoted (wood type) (pen kit type).
 
 [Return Home](index.md)  
 
@@ -38,14 +35,6 @@ _________
 <img src="EucalyptusCubanPen.jpg" height="800" width="600">
 
 I decided to try something different and make the orange hue of eucalyptus core match the copper plating on this pen kit. Eucalyptus wood isn't very hard or dense (which is very important when making pens because the layer of wood is so thin and can easily crack) so I ran into a few problems but in the end it came together. It was well worth it.
-
-_________  
-
-### Bolivian Coffeewood EDC
-
-<img src="BolivianCoffeewoodEDCPen.jpg" height="800" width="600">
-
-This is an every-day-carry pen (EDC) for use in the classroom. It is a click pen with a modified ink cartriage for better writing. The wood design is slim to fit well in the hand.
 
 _________  
 
@@ -129,6 +118,8 @@ _________
 <img src="PurpleheartGatsbyClickPen.JPG" height="800" width="600">
 ID: 21  
 
+*Displayed on a crepe myrtle planted for my brother*
+
 Another highly successful project, this was the first click pen I have made. I like the click mechanism more than the twist, although it tends to rattle around when clicked down. The solution for that is to make the end cap have a tighter fit on the pen. The curve on this pen goes down before it comes back up. This is risky as you might run out of wood on the way down (and hit the brass tubing underneath that contains the pen mechanism). However, for this pen it worked great to give the pen a comfortable writing hold and beautiful shape. (12/7/2019)
 
 _________  
@@ -156,6 +147,8 @@ _________
 
 <img src="GongoloAlvesExecutivePen.JPG" height="800" width="600">
 ID: 23  
+
+*Displayed on a bird of paradise leaf tempered with a California winter*
 
 The grain pattern of this wood is my favorite over bocote, paduak, or wenge. The way it blends light and dark colored wood fibers gives amazing patterns. For this one, I took care to set the ridge where my hand would rest when writing. The ridge, aside from being ergonomic, is meant to highlight the beautiful grain and give the pen a sleek look with the 'sharp' edge. I'd like to point out the diamond shape created by the contour of the ridge as a defining feature that makes this pen great. (12/15/2019)
 
@@ -198,5 +191,5 @@ _________
 *Displayed on a yellowing walnut tree nested in a fold of our valley in the winter months.*
 
 
-I'm going to start displaying the plant type the pen is displayed with. My favorite color is yellow so I like this pen. However, the wood tends to look fake at times because its color is so unbelieveable. A yellow pen is much less dazzling than a wood pen that is yellow colored in my opinion. To get the darker sanded material out of all the pores of this pen(because it is yellow this material stood out) I buffed it throughoutly while varnishing with mineral oil. This worked well to push any dark impurities out of the pores of the wood.(12/29/2019)
+My favorite color is yellow so I like this pen. However, the wood tends to look fake at times because its color is so unbelieveable. A yellow pen is much less dazzling than a wood pen that is yellow colored in my opinion. To get the darker sanded material out of all the pores of this pen(because it is yellow this material stood out) I buffed it throughoutly while varnishing with mineral oil. This worked well to push any dark impurities out of the pores of the wood.(12/29/2019)
 _________  

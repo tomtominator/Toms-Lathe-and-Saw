@@ -1,6 +1,8 @@
 # Thomas Woodworking Co.
 
-This site is meant to display my woodworking projects. In each section, there is a "My favorite ______" for quick viewing of some of my best work.  
+| About:  |
+|  :---:  |
+Thomas Woodworking Co is a home shop based out of Sherman Oaks, California. I am a young woodworker using my passion for art in each of my pieces. All pieces are handcrafted personally with the greatest attention to detail. My best works have transformed dead trees with a story to tell around my neighborhood into beautiful, functional art pieces. In each section, my favorite piece is linked to at the top.  
 
 ___________
 **If you purchased a pen and it contains an ID number, you can view a photo and thoughts behind making it. This information is in [Pens](Pens.md).**   
@@ -21,7 +23,7 @@ ___________
 
 # Furniture 
 
-<img src="SidetableInHouse.JPG" width= "400" height="400*4/3">
+<img src="SidetablePlantBackground.JPG" width= "508" height="561">
 
 [View Furniture](Furniture.md)
 
@@ -31,25 +33,25 @@ __________
 
 
 ## Crafted from Local Wood
-Dead trees are given new life and beauty through these projects. As projects usually don't require large amounts of wood, most wood is sourced from my backyard, especially wood for spoons.  Here are photos showing various types of trees I use and their respective grain coloring:  
+Dead trees are given new life and beauty through these projects. As pen/spoon projects don't require large amounts of wood, most wood is sourced from my backyard. Here are photos showing various types of trees I have used and their respective grain coloring:  
 
 __________
 
 ### Cyprus
 
-Strangly enough, we have cyprus trees that have purple core wood. Looking online I could find nothing else like this.
+Strangly enough, we have cyprus trees that have purple core wood. Looking online, I could find nothing else like this.
 
 <img src="CyprusTree.jpg" width="200" height="300"> <img src="CyprusWood.jpg" width="450" height="300">  
 
 ### Eucalyptus
 
-Eucalyptus trees tend to crack at the worse times, but if you can control them they have a beautiful orange colored core wood.
+Eucalyptus trees have a beautiful orange colored core wood.
 
 <img src="EucalyptusTree.jpg" width="300" height="400"> <img src="EucalyptusWood.jpg" width="300" height="400">  
 
 ### Pine
 
-Taken from a felled tree in our neighborhood, root beer can for reference.
+Taken from a felled tree in our neighborhood (root beer can for reference).
 
 <img src="PineWoodPile.jpg" width="300" height="400">
 
