@@ -2,7 +2,8 @@
 
 | About:  |
 |  :---:  |
-Thomas Woodworking Co is a home shop based out of Sherman Oaks, California. I am a young woodworker using my passion for art in each of my pieces. All pieces are handcrafted personally with the greatest attention to detail. My best works have transformed dead trees with a story to tell around my neighborhood into beautiful, functional art pieces. In each section, my favorite piece is linked to at the top.  
+|         |
+Thomas Woodworking Co is a home shop based out of Los Angeles, California. I am a young woodworker using my passion for art in each of my pieces. All pieces are handcrafted personally with the greatest attention to detail. My best works have transformed dead trees with a story to tell around my neighborhood into beautiful, functional art pieces. In each section, my favorite piece is linked to at the top.  
 
 ___________
 **If you purchased a pen and it contains an ID number, you can view a photo and thoughts behind making it. This information is in [Pens](Pens.md).**   
