@@ -1,6 +1,6 @@
 # Furniture
 
-Furniture projects are much bigger than spoon or pen projects and as a result are fewer and further between. However, I have been building furnite much longer than I have been making pens and spoons but much of that content is not on this site.
+Furniture projects are much bigger than spoon or pen projects and as a result are fewer and further between. As with spoons and pens, I like to let the grain do the talking in my furniture. Allowing the grain to speak is the art.
 
 [Return Home](index.md)
 
@@ -10,65 +10,20 @@ _________
 
 ## Birch Sidetable
 
-This birch sidetable is a lighthearted table meant to greet next to the door. With light woods and a slight shimmer, it welcomes. The top is a combination of birch and a maple centerpiece. The legs are redwood with a birch peg lined for support and connected to a birch core.  (12/25/2019)
+This birch sidetable is a lighthearted table meant to greet next to the door. With light woods and a slight shimmer, it welcomes. The top is a combination of birch and a maple centerpiece. The legs are redwood with a birch peg lined for support and connected to a birch core. Interesting in the construction? [Table Construction](SideTableCreation.md)  (12/25/2019)
 
 <img src="SidetablePlantBackground.JPG" height="561" width="508">  
 
 <img src="SidetableTopUnlacored.JPG" height="800" width="600">
   
-The table will be connected to the legs via this frame also made of finished birch.
-<img src="SidetableUnderneath.JPG" height="800" width="600">
-    
-This is what the tabletop looks finished with mineral oil.  
-<img src="SidetableTopLacored.JPG" height="800" width="600">
-
-Paper was used when glueing to prevent glue from wandering. If the paper was glued on to the wood, it could be easliy sanded away.  
- Glueing the base together using a square block to ancor the clamps to:
-<img src="SidetableGlueingBase.JPG" height="800" width="600">  
-
-Glueing in the legs and dowl struts simultanously:
-<img src="SidetableGlueingLeg.JPG" height="800" width="600">  
-
-The legs and struts are completely glued to the base. The paper will be removed by scraping and sanding:
-<img src="SidetableLegsFinished.JPG" height="800" width="600">  
-
-The finished product. 4 Screws were used to further anchor the legs to the base. The tabletop was glued to the legs, base combination.
-<img src="SidetableFinish.JPG" height="800" width="600">  
-
-Here is the sidetable in place:
-<img src="SidetableInPlace.JPG" height="800" width="600">  
-
-
+<img src="SidetableInPlace.JPG" height="800" width="600">
 
 _________  
 
-## Picnic Table
-
-My mom wanted a  table modeled after the ones at Zuma Beach. They were the basic picnic table frame made from heavy 2x6s and 2x8s and painted bright yellow. When making this table I used 2x4s and 2x6s to save on weight and money. We found the perfect shade at Dunn Edwards and it glows to this day.(7/22/2018)
-  
-
-Assembling frames of the table:
-<img src="PicnicTableFrame.jpg" height="800" width="600">
-  
-Here the tabletop and benchtops, which hold the frame together, are being screwing in:
-<img src="PicnicTableUnpainted.jpg" height="800" width="600">  
-  
 _________  
 
-## Access Stairs
-These stairs  are to access our hill where many plants are grown. We used to climb up the brick wall but it was starting to collaspe and I didn't want to knock down more dirt by climbing up the dirt. These stairs make getting on to the trail much easier.  
-  
-  They are bolted to a concrete foundation with lag bolts. If I do it over again, I would make the stairs wider but everything else turned out great.(2/5/2018)
 
-<img src="StairsFoundation.jpg" height="800" width="600">  
-
-The frame was cut from a 2x8 to hold the individual stairs:
-<img src="StairsFrame.JPG" height="800" width="600">  
-
-Super Level!
-<img src="StairsLevel.JPG" height="600" width="800">
-
-_________  
+Miscellaneous projects where functionality is the goal: [MiscProjects](MiscellaneousItems.md)  
 
 _________  
 
@@ -79,40 +34,4 @@ _________
 _________  
 
 
-## Miscellaneous Items  
-
-### **for Functionality not Form**
-_________  
-
-## Hamster Table
-
-A wooden table for utility, I made it out of pine. It looks ugly but it is super sturdy and functional. On top sits my brother's handmade hamster cage. Although I'm not fond of hamsters, I am fond of making tables for functionality rather than looks.(3/3/2019)
-
-<img src="HamsterTable.jpg" height="800" width="600">
-<img src="HamsterTableAndCage.jpg" height="800" width="600">
-
-_________  
-
-## Display Case
-A display case made of scrap wood and a piece of plexi. All these bones were found on the hill along with the sand. I think the jaw and matching skull is a coyete's and the vertebrate likely a deer's. The skull, I'm not sure: could be a rabbit, really big gopher, or something else. (2/13/2018)
-
-<img src="DisplayCase.jpg" height="600" width="800">
-<img src="DisplayCaseSide.jpg" height="600" width="800">
-
-_________  
-
-## Spice Racks
-
-A simple project but getting the angle right to make it fit in the drawer was quite difficult. Unfortunately, I didn't have any paint at the time. Its ok though because the spices cover up the ugly plywood.(4/7/2018)
-
-<img src="SpiceRackEmpty.jpg" height="800" width="600">
-<img src="SpiceRackFull.jpg" height="800" width="600">
-
-_________  
-
-## Foot-rest Cover
-
-**I did not make the foot-rest**, but I did sew the cover. I think this is loosely related to furniture and it turned out great so here it is. (12/9/2018)
-
-<img src="FootRestCovered.jpg" height="800" width="600">
-<img src="FootRestUncovered.jpg" height="800" width="600">
+Thomas Matthew 2019

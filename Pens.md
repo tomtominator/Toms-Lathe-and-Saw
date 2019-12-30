@@ -192,4 +192,13 @@ _________
 
 
 My favorite color is yellow so I like this pen. However, the wood tends to look fake at times because its color is so unbelieveable. A yellow pen is much less dazzling than a wood pen that is yellow colored in my opinion. To get the darker sanded material out of all the pores of this pen(because it is yellow this material stood out) I buffed it throughoutly while varnishing with mineral oil. This worked well to push any dark impurities out of the pores of the wood.(12/29/2019)
+
 _________  
+
+_________  
+
+_________  
+
+_________  
+
+Thomas Matthew 2019

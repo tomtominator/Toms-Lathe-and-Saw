@@ -57,3 +57,13 @@ Taken from a felled tree in our neighborhood (root beer can for reference).
 
 
 [Go to Top](#Thomas-Woodworking-Co)
+
+_________  
+
+_________  
+
+_________  
+
+_________  
+
+Thomas Matthew 2019
