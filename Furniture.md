@@ -8,7 +8,7 @@ Furniture projects are much bigger than spoon or pen projects and as a result ar
 
 _________  
 
-## Birch Sidetable
+### Birch Sidetable
 
 This birch sidetable is a lighthearted table meant to greet next to the door. With light woods and a slight shimmer, it welcomes. The top is a combination of birch and a maple centerpiece. The legs are redwood with a birch peg lined for support and connected to a birch core. Interesting in the construction? [Table Construction](SideTableCreation.md)  (12/25/2019)
 

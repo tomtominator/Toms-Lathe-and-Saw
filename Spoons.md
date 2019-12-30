@@ -4,7 +4,7 @@ Handcrafted using a lathe, carving, and a lot of sanding. Wood used for spoons i
 
 [Return Home](index.md)  
 
-[My Favorite Spoon](#mother's-day-present)
+[My Favorite Spoon](#cyprus-spoon)
 
 __________  
 
