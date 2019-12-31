@@ -2,7 +2,6 @@
 
 _________  
 
-
 |  Handcrafted using a lathe, carving, and a lot of sanding. Wood used for spoons is all locally sourced. To see the general steps behind the spoons check out: [Spoon Creation](SpoonCreation.md).  |
 |  :---:  |
 |  [Return Home](index.md)  |
@@ -80,6 +79,16 @@ __________
 
 Take from a young white alder that died after many years fighting against drought. It is a decendent of a huge white alder that used to stand in our backyard 50 years ago. That tree was called George, this tree we called George Jr. Jr. I think it is interesting that the pattern on the front of the spoon looks like anaphase in mitosis due too the concave nature of the scoop of the spoon.  
 
+__________  
+
+### Eucalyptus-Pepperwood Ladle
+
+<img src="Spoons/LadleFront.jpg" width="600" height="900">  
+
+
+<img src="Spoons/LadleBack.jpg" width="900" height="600">  
+
+A more complex piece. The 2 wood types are held together with dowels. It is hard to see the beautiful grain in the photos because the wood is so dark but the circular bowl portion reveals the beautiful grain of the pepperwood.
 
 __________  
 
