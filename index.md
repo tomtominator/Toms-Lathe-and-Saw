@@ -41,7 +41,7 @@ __________
 
 ### Cypress
 
-Strangly enough, we have cyprus trees that have purple core wood. Looking online, I could find nothing else like this.
+Strangly enough, we have cypress trees that have purple core wood. Looking online, I could find nothing else like this.
 
 <img src="CyprusTree.jpg" width="200" height="300"> <img src="CyprusWood.jpg" width="450" height="300">  
 
