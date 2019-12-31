@@ -1,10 +1,14 @@
 # Pens
 
-Pens are created using pen kits that provide the metal pieces on each pen. Sustainably sourced exotic hardwoods of the highest quality are used and each pen is completely unique. Pens are denoted (wood type) (pen kit type).
+_________  
 
-[Return Home](index.md)  
+|  Pens are created using pen kits that provide the metal pieces on each pen. Sustainably sourced exotic hardwoods of the highest quality are used and each pen is completely unique. Pens are denoted (wood type) (pen kit type).  |
+|  :---:  |
+|  [Return Home](index.md)  |
+|  [My Favorite Pen](#bocote-executive)  |
 
-[My Favorite Pen](#bocote-executive)
+_________  
+
 
 ### Redheart Gatsby 
 

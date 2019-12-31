@@ -1,10 +1,12 @@
 # Spoons
 
+_________  
+
+
 |  Handcrafted using a lathe, carving, and a lot of sanding. Wood used for spoons is all locally sourced. To see the general steps behind the spoons check out: [Spoon Creation](SpoonCreation.md).  |
 |  :---:  |
 |  [Return Home](index.md)  |
 |  [My Favorite Spoon](#cypress-spoon)  |  
-
 
 __________  
 

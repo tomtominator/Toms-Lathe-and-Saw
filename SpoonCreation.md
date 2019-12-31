@@ -1,22 +1,28 @@
 # Spoon Creation
 
+|  [Return](Spoons.md)  |
+|  :---:  |
+|  [Return Home](index.md)  |  
+
+
+
 ## Shaping  
 
-<img src="SpoonBlank1.jpg" width="300" height="200">  
+<img src="Spoons/SpoonCreation/SpoonBlank1.jpg" width="300" height="200">  
 
 The wood has been rounded into a the shape of a maraca(although not hollow) and is adequately smooth at this point.  
 
 __________  
 
 
-<img src="SpoonBlank2.jpg" width="300" height="200">  
+<img src="Spoons/SpoonCreation/SpoonBlank2.jpg" width="300" height="200">  
 
 The maraca blank is cut to resemble a spoon more than a maraca.  
 
 __________  
 
 
-<img src="SpoonBlank3.jpg" width="300" height="400">  
+<img src="Spoons/SpoonCreation/SpoonBlank3.jpg" width="300" height="400">  
 
 The scoop of the spoon is carved out using a hook knife.  
 
@@ -34,21 +40,21 @@ The best spoons are bent to give them a more natural feel. Every utensil has a s
 __________  
 
 
-<img src="HeatingSpoon.jpg" width="225" height="300">  
+<img src="Spoons/SpoonCreation/HeatingSpoon.jpg" width="225" height="300">  
 
 This strange contraption boils water. The steam rises up and heats the fibers in the wood of the spoon.  
 
 __________  
 
 
-<img src="BendingSpoon.jpg" width="200" height="300">  
+<img src="Spoons/SpoonCreation/BendingSpoon.jpg" width="200" height="300">  
 
 Once the fibers of the wood are heated and able to move past each other the spoon is bent in a vice. It must be held in this shape until the heated fibers fully dry which usually takes about 1-2 days.  
 
 __________  
 
 
-<img src="BentSpoon.jpg" width="400" height="300">  
+<img src="Spoons/SpoonCreation/BentSpoon.jpg" width="400" height="300">  
 
 The finished product is permenetly bent. With a little recoil, the shape the spoon was in the vice remains. The more the fibers were originally heated the less recoil occurs.
 
