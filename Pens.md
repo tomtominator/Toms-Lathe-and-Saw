@@ -8,7 +8,7 @@ Pens are created using pen kits that provide the metal pieces on each pen. Susta
 
 ### Redheart Gatsby 
 
-<img src="RedheartGatsbyPen.jpg" height="800" width="600">
+<img src="Pens/RedheartGatsbyPen.jpg" height="800" width="600">
 
 Crafted from beautiful redheart wood sourced from South America, this pen has a simple but functional design for use in the classroom. The gatsby kit is stout and well balanced making it the perfect writing tool.
 
@@ -16,7 +16,7 @@ _________
 
 ### Bocate Cuban  
 
-<img src="BocateCubanPen.JPG" height="950" width="600">
+<img src="Pens/BocateCubanPen.JPG" height="950" width="600">
 
 Turned out of bocate wood which has a increditable grain pattern. Taking my knowledge from the Redheart Gatsby Pen, I put a little more style into this pen while still letting the grain be the main focus. This pen is larger and heavier than the redheart but still has a nice balance in the hand.
 
@@ -24,7 +24,7 @@ _________
 
 ### Bolivian Coffeewood Cat Themed 
 
-<img src="BolivianCoffeewoodCatPen.jpg" height="800" width="600">
+<img src="Pens/BolivianCoffeewoodCatPen.jpg" height="800" width="600">
 
 I made this pen for one of my chemistry teachers. She loves cats so I chose this kit combined with the Bolivian Coffeewood. I chose that wood because I thought it looked the most cat-like out of what I had. I think it looks like a tabby.
 
@@ -32,7 +32,7 @@ _________
 
 ### Eucalyptus Cuban 
 
-<img src="EucalyptusCubanPen.jpg" height="800" width="600">
+<img src="Pens/EucalyptusCubanPen.jpg" height="800" width="600">
 
 I decided to try something different and make the orange hue of eucalyptus core match the copper plating on this pen kit. Eucalyptus wood isn't very hard or dense (which is very important when making pens because the layer of wood is so thin and can easily crack) so I ran into a few problems but in the end it came together. It was well worth it.
 
@@ -40,7 +40,7 @@ _________
 
 ### Bloodwood Slimline 
 
-<img src="BloodwoodPen.jpg" height="800" width="600">
+<img src="Pens/BloodwoodPen.jpg" height="800" width="600">
 
 I modeled this pen after the symbol for infinity. I wanted it to be as symmetrical as possibe and I am happy with the results considering I didn't use a jig or calipers to expedite the process. This is the first of many slimlines I plan to make and then sell. Their kit is very inexpensive and quickly made making it ideal for mass production. 
 
@@ -48,7 +48,7 @@ _________
 
 ### Wenge Gatsby 
 
-<img src="WengeGatsbyPen.JPG" height="800" width="600"> 
+<img src="Pens/WengeGatsbyPen.JPG" height="800" width="600"> 
 ID: 19  
 
 The Gatsby pen model is still my favorite for its superior balance and style. Experimenting with a new coating technique using glue instead of wood oil caused this pen to look like it is coating in glass. This is also the first of many pens that will be made with a new set of exotic woods I bought for pen making. Wenge is from Central Africa and is an endangered species. However, this piece was sourced responsibly with care taken to preserve the existing population of trees.
@@ -57,7 +57,7 @@ _________
 
 ### Walnut Slimline 
 
-<img src="WalnutSlimlinePen.jpg" height="800" width="600">
+<img src="Pens/WalnutSlimlinePen.jpg" height="800" width="600">
 
 My new favorite pen, the unorthodox shape I tried on this one had great results in my opinion. It is very comfortable to hold and has a unique feel. The rich color of the walnut is brought out by the sweeping curves of the shape. This pen, along with the following 4 slimlines, were all made in quick succession to test the viability of an makeshift assembly line for mass producing sellable pens. (11/27/2019)
 
@@ -65,7 +65,7 @@ _________
 
 ### Pepperwood Slimline 
 
-<img src="PepperwoodSlimlinePen.JPG" height="800" width="600">
+<img src="Pens/PepperwoodSlimlinePen.JPG" height="800" width="600">
 
 One of the few woods at our house that can hold the difficult pose of being a pen, Pepperwood has a great color that matches well with the gold of the pen kit. I tried to make this pen increditable thin which risks the wood cracking but feels great in the hand when writing. It was successful and I added subtle waves for style on the upper tube.(11/27/2019)
 
@@ -73,7 +73,7 @@ _________
 
 ### Mystery Wood Slimline
 
-<img src="UnknownWoodSlimlinePen.JPG" height="800" width="600">
+<img src="Pens/UnknownWoodSlimlinePen.JPG" height="800" width="600">
 ID: 18  
 
 This piece was in the inventory but I have no idea where this wood came from. I need to improve my wood accounting skills I guess. Although theories exist for its type, I am not confident enough to say one way or the other. It made a good looking pen though. There were some issues with the wood getting dirty from lubricant that seeped out of the pen mandrel threads. I fixed this by cleaning the mandrel and removing the outter layer of wood that was stained. Light colored, pourous woods like these have had a tendancy to soak up sawdust, lubricant, and other impurities that ruin the color. A comprehensive solution is in the works. (11/27/2019)
@@ -82,7 +82,7 @@ _________
 
 ### Purple-Painted Slimline
 
-<img src="PurplePaintedSlimlinePen.JPG" height="800" width="600">
+<img src="Pens/PurplePaintedSlimlinePen.JPG" height="800" width="600">
 
 This pen was an experiment with some scrap wood that actually turned out nice. It was only roughly sanded before painting to prevent it from having a completely uniform, unnatural look. The roughness gives a fabric like appearance in my opinion. Unlike other pens, it is sealed with glue (rather than wood oil and wax).(11/27/2019)
 
@@ -90,7 +90,7 @@ _________
 
 ### Ipe Slimline
 
-<img src="IPESlimlinePen.jpg" height="800" width="600">
+<img src="Pens/IPESlimlinePen.jpg" height="800" width="600">
 
 Second favorite from this batch, the Ipe wood looks great on this pen kit. The shape is simple but bold for this pen and assists in grip.(11/27/2019)
 _________  
@@ -105,7 +105,7 @@ _________
 
 ### Bolivian Rosewood Slimline
 
-<img src="BolivianRosewoodSlimlinePen.JPG" height="800" width="600">
+<img src="Pens/BolivianRosewoodSlimlinePen.JPG" height="800" width="600">
 ID: 20  
 
 Slimlines aren't my favorite as I like a thicker pen. This one turned out great though and really highlights the beauty of the rosewood.(12/7/2019)
@@ -115,7 +115,7 @@ _________
 
 ### Purpleheart Gatsby (Click)
 
-<img src="PurpleheartGatsbyClickPen.JPG" height="800" width="600">
+<img src="Pens/PurpleheartGatsbyClickPen.JPG" height="800" width="600">
 ID: 21  
 
 *Displayed on a crepe myrtle planted for my brother*
@@ -136,7 +136,7 @@ _________
   
 ### Bocote Executive
 
-<img src="BocoteExecutivePen.JPG" height="800" width="600">
+<img src="Pens/BocoteExecutivePen.JPG" height="800" width="600">
 ID: 22  
 
 My new favorite pen!(again) Unlike my first bocote, I did not wet sand this one. This meant that the lighter, more porous section of the wood didn't absorb the dark sanded away material and become darker. This perserved the stark contrast between grain lines natural to bocote wood. I wanted a bold contrast between the grain colors because of the beautiful pattern derived the 2 subtle high points at the ends of the pen. I perfected my sanding/polishing technique without using water on this pen. This technique is extremely valuable in the future when working with lighter colored wood.(12/15/2019)
@@ -145,7 +145,7 @@ _________
 
 ### Gongolo Alves Executive
 
-<img src="GongoloAlvesExecutivePen.JPG" height="800" width="600">
+<img src="Pens/GongoloAlvesExecutivePen.JPG" height="800" width="600">
 ID: 23  
 
 *Displayed on a bird of paradise leaf tempered with a California winter*
@@ -156,7 +156,7 @@ _________
 
 ### Cocobolo Executive
 
-<img src="CocoboloExecutivePen.JPG" height="800" width="600">
+<img src="Pens/CocoboloExecutivePen.JPG" height="800" width="600">
 ID: 24  
 
 The most modest of the set, this pen was coated in CA glue which was then sanded off. After lacor and wax, the pores in the wood that were filled in previously by the CA glue shimmer in the light. This effect is especially striking against the deep, dark color of the cocobolo. This is my new technique of choice for woods with deep pores that can't be sanded away. It fills them in without sacrificing the great natural texture of the wood with a full CA coating.(12/15/2019)
@@ -178,7 +178,7 @@ _________
 
 ### Leopardwood Gatsby
 
-<img src="LeopardwoodGatsbyPen.JPG" height="800" width="600">
+<img src="Pens/LeopardwoodGatsbyPen.JPG" height="800" width="600">
 
 A truely beautiful and exotic pen. This pen was created to dazzle which is why I used the leopardwood. Here again, the shape of the pen was to best display the grain. Without the strange shape, the circlar patterns at each ridge wouldn't appear. Despite the interesting shape, I quite like how the pen feels writing.(12/16/2019)
 
@@ -186,7 +186,7 @@ _________
 
 ### Yellowheart Gatsby Click
 
-<img src="YellowheartGatsbyClickPen.JPG" height="800" width="600">
+<img src="Pens/YellowheartGatsbyClickPen.JPG" height="800" width="600">
 
 *Displayed on a yellowing walnut tree nested in a fold of our valley in the winter months.*
 

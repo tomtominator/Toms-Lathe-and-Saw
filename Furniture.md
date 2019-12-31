@@ -12,11 +12,11 @@ _________
 
 This birch sidetable is a lighthearted table meant to greet next to the door. With light woods and a slight shimmer, it welcomes. The top is a combination of birch and a maple centerpiece. The legs are redwood with a birch peg lined for support and connected to a birch core. Interesting in the construction? [Table Construction](SideTableCreation.md)  (12/25/2019)
 
-<img src="SidetablePlantBackground.JPG" height="561" width="508">  
+<img src="Furniture/SidetablePlantBackground.JPG" height="561" width="508">  
 
-<img src="SidetableTopUnlacored.JPG" height="800" width="600">
+<img src="Furniture/SidetableCreation/SidetableTopUnlacored.JPG" height="800" width="600">
   
-<img src="SidetableInPlace.JPG" height="800" width="600">
+<img src="Furniture/SidetableInHouse.JPG" height="800" width="600">
 
 _________  
 

@@ -15,19 +15,19 @@ ___________
 ___________
 # Pens 
 
-<img src="ThemeImgPens.jpg" width= "400*4/3" height="400">
+<img src="Pens/ThemeImgPens.jpg" width= "400*4/3" height="400">
 
 [View Pens](Pens.md)
 
 # Spoons
 
-<img src="ThemeImgSpoons.jpg" width= "400*4/3" height="400">
+<img src="Spoons/ThemeImgSpoons.jpg" width= "400*4/3" height="400">
 
 [View Spoons](Spoons.md)
 
 # Furniture 
 
-<img src="SidetablePlantBackground.JPG" width= "508" height="561">
+<img src="Furniture/SidetablePlantBackground.JPG" width= "508" height="561">
 
 [View Furniture](Furniture.md)
 
