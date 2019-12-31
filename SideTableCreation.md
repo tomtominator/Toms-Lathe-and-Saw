@@ -2,6 +2,13 @@
 
 _________  
 
+|  [Return](Furniture.md)  |
+|  :---:  |
+|  [Return Home](index.md)  |
+
+_________  
+
+
 
 Detailed photos showing steps to the construction of this table:
 

@@ -3,6 +3,13 @@
 
 _________  
 
+|  [Return](Furniture.md)  |
+|  :---:   |
+|  [Return Home](index.md)  |
+
+_________  
+
+
 ## Picnic Table
 
 My mom wanted a  table modeled after the ones at Zuma Beach. They were the basic picnic table frame made from heavy 2x6s and 2x8s and painted bright yellow. When making this table I used 2x4s and 2x6s to save on weight and money. We found the perfect shade at Dunn Edwards and it glows to this day.(7/22/2018)
