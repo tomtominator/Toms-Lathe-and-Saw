@@ -94,7 +94,7 @@ _________
 
 ### Ipe Slimline
 
-<img src="Pens/IPESlimlinePen.jpg" height="800" width="600">
+<img src="Pens/IpeSlimlinePen.jpg" height="800" width="600">
 
 Second favorite from this batch, the Ipe wood looks great on this pen kit. The shape is simple but bold for this pen and assists in grip.(11/27/2019)
 _________  
