@@ -1,4 +1,5 @@
-# Thomas Woodworking Co.
+# Thomas Woodworking Co.  
+
 
 | *-------------* *About* *-------------* |
 |            :---:             |
