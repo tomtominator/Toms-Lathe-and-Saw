@@ -27,7 +27,7 @@ Paper was used when glueing to prevent glue from wandering. If the paper was glu
  Glueing the base together using a square block to ancor the clamps to:
 <img src="Furniture/SidetableCreation/SidetableGlueingBase.JPG" height="800" width="600">  
 
-Glueing in the legs and dowl struts simultanously:
+Glueing in the legs and dowl struts simultaneously:
 <img src="Furniture/SidetableCreation/SidetableGlueingLeg.JPG" height="800" width="600">  
 
 The legs and struts are completely glued to the base. The paper will be removed by scraping and sanding:
