@@ -14,7 +14,7 @@ Detailed photos showing steps to the construction of this table:
 
 _________  
 
-The unsanded and unlacored tabletop after merging 2 parts birch, 1 part maple:
+The unsanded and unlacquered tabletop after merging 2 parts birch, 1 part maple:
 <img src="Furniture/SidetableCreation/SidetableTopUnlacored.JPG" height="800" width="600">
 
 The table will be connected to the legs via this frame also made of finished birch.

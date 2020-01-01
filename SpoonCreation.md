@@ -70,7 +70,7 @@ __________
 
 ## Finishing
 
-Spoons are finished by initially sanded down to 200 grit with regular sandpaper, then micro mesh sanders polish the wood to a mirror finish. Snow River Products' Wood Oil is used to lacor and helps to bring out any remaining sawdust giving the spoon a false smoothness. After dry, it is covered in Briwax for protection, a natural feel, and grip. 
+Spoons are finished by initially sanded down to 200 grit with regular sandpaper, then micro mesh sanders polish the wood to a mirror finish. Snow River Products' Wood Oil is used to lacquer and helps to bring out any remaining sawdust giving the spoon a false smoothness. After dry, it is covered in Briwax for protection, a natural feel, and grip. 
 
 __________  
 

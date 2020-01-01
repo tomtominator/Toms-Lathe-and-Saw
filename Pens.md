@@ -163,7 +163,7 @@ _________
 <img src="Pens/CocoboloExecutivePen.JPG" height="800" width="600">
 ID: 24  
 
-The most modest of the set, this pen was coated in CA glue which was then sanded off. After lacor and wax, the pores in the wood that were filled in previously by the CA glue shimmer in the light. This effect is especially striking against the deep, dark color of the cocobolo. This is my new technique of choice for woods with deep pores that can't be sanded away. It fills them in without sacrificing the great natural texture of the wood with a full CA coating.(12/15/2019)
+The most modest of the set, this pen was coated in CA glue which was then sanded off. After lacquer and wax, the pores in the wood that were filled in previously by the CA glue shimmer in the light. This effect is especially striking against the deep, dark color of the cocobolo. This is my new technique of choice for woods with deep pores that can't be sanded away. It fills them in without sacrificing the great natural texture of the wood with a full CA coating.(12/15/2019)
 
  _________  
  
