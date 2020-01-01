@@ -77,7 +77,7 @@ __________
 <img src="Spoons/WhiteAlderSpoonClose.jpg" width="400" height="533.2">  
 
 
-Take from a young white alder that died after many years fighting against drought. It is a decendent of a huge white alder that used to stand in our backyard 50 years ago. That tree was called George, this tree we called George Jr. Jr. I think it is interesting that the pattern on the front of the spoon looks like anaphase in mitosis due too the concave nature of the scoop of the spoon.  
+Take from a young white alder that died after many years fighting against drought. It is a decendent of a huge white alder that used to stand in our backyard 50 years ago. That tree was called George, this tree we called George Jr. Jr.(yes Jr. x2) I think it is interesting that the pattern on the front of the spoon looks like anaphase in mitosis due to the concave nature of the scoop of the spoon.  
 
 __________  
 
