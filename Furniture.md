@@ -1,10 +1,11 @@
 # Furniture
+_________  
 
-Furniture projects are much bigger than spoon or pen projects and as a result are fewer and further between. As with spoons and pens, I like to let the grain do the talking in my furniture. Allowing the grain to speak is the art.
 
-[Return Home](index.md)
-
-[My Favorite Piece of Furniture](#birch-sidetable)
+|  Furniture projects are much bigger than spoon or pen projects and as a result are fewer and further between. As with spoons and pens, I like to let the grain do the talking in my furniture. Allowing the grain to speak is the art.  |
+|  :---:  |
+|  [Return Home](index.md)  |
+|  [My Favorite Piece of Furniture](#birch-sidetable)  |  
 
 _________  
 
