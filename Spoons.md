@@ -88,7 +88,7 @@ __________
 
 <img src="Spoons/LadleBack.jpg" width="900" height="600">  
 
-A more complex piece. The 2 wood types are held together with dowels. It is hard to see the beautiful grain in the photos because the wood is so dark but the circular bowl portion reveals the beautiful grain of the pepperwood.
+A more complex piece. The 2 wood types are held together with dowels. It is hard to see the beautiful grain in the photos because the wood is so dark but the circular bowl portion reveals the grain of the pepperwood in a pleasing way to the eye.
 
 __________  
 
