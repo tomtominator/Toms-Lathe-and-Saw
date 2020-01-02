@@ -1,9 +1,6 @@
 [comment]: <> (Test)  
 
 
-## Thomas Woodworking Co.  
-
-
 | About |
 | :---: |  
 |  |  
