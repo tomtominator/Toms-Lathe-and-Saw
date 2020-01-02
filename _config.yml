@@ -1,3 +1,9 @@
 theme: jekyll-theme-tactile
 
 title: Thomas Woodworking Co.
+
+defaults:
+-
+scope: 
+path: Pens.md
+title: ""
