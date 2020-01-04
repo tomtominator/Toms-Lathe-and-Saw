@@ -1,4 +1,4 @@
-<img src="ThemeImageDeadWalnut.jpg" width= "900" height="1200">
+<img src="ThemeImageDeadWalnut.jpg" width= "600" height="600*3/4">
 
 
 | About |
