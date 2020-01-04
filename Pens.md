@@ -61,7 +61,9 @@ _________
 
 ### Walnut Slimline 
 
-<img src="Pens/WalnutSlimlinePen.jpg" height="800" width="600">
+<img src="Pens/WalnutSlimlinePen.jpg" height="800" width="600">  
+
+ID: 18  
 
 My new favorite pen, the unorthodox shape I tried on this one had great results in my opinion. It is very comfortable to hold and has a unique feel. The rich color of the walnut is brought out by the sweeping curves of the shape. This pen, along with the following 4 slimlines, were all made in quick succession to test the viability of an makeshift assembly line for mass producing sellable pens. (11/27/2019)
 
