@@ -87,6 +87,10 @@ Every piece has the upmost attention to detail taken towards it and only the bes
 
 
 
+A variety of precise tools can be used to cut, shape, sand, and morph the wood. Here are mine:  
+
+*Coming Soon*
+
 
 [Go to Top](#Thomas-Woodworking-Co)
 
