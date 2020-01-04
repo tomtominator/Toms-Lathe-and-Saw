@@ -6,9 +6,10 @@
 |  |  
   
   
-Thomas Woodworking Co is a home shop based out of Los Angeles, California. I am a young woodworker using my eye for style in each of my pieces. All pieces are handcrafted personally with the greatest attention to detail. My best works have transformed dead trees with a story to tell around my neighborhood into beautiful, functional art pieces. In each section, my favorite piece is linked to at the top. 
+Thomas Woodworking Co is a home shop based out of Los Angeles, California. I am a young woodworker using my eye for style in each of my pieces. All pieces are handcrafted personally with the greatest attention to detail. My best works have transformed dead trees with a story to tell around my neighborhood into beautiful, functional art pieces. In each section, my favorite piece is linked to at the top.  
 
-| (Contact)[Contact.md] |
+
+| [Contact Me](Contact.md) |
 | :---: |  
 |  |  
 
@@ -79,9 +80,11 @@ Every piece has the upmost attention to detail taken towards it and only the bes
 
 *(Pen creation coming soon)*
 
-(Spoon Creation)[SpoonCreation.md]  
+[Spoon Creation](SpoonCreation.md)  
 
-(Side Table Construction)[SideTableCreation.md]  
+
+[Side Table Construction](SideTableCreation.md)  
+
 
 
 
