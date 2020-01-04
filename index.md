@@ -6,26 +6,32 @@
 |  |  
   
   
-Thomas Woodworking Co is a home shop based out of Los Angeles, California. I am a young woodworker using my eye for style in each of my pieces. All pieces are handcrafted personally with the greatest attention to detail. My best works have transformed dead trees with a story to tell around my neighborhood into beautiful, functional art pieces. In each section, my favorite piece is linked to at the top.  
+Thomas Woodworking Co is a home shop based out of Los Angeles, California. I am a young woodworker using my eye for style in each of my pieces. All pieces are handcrafted personally with the greatest attention to detail. My best works have transformed dead trees with a story to tell around my neighborhood into beautiful, functional art pieces. In each section, my favorite piece is linked to at the top. 
 
-___________
-**If you purchased a pen and it contains an ID number, you can view a photo and thoughts behind making it. This information is in [Pens](Pens.md).**   
-(Not all pens contain IDs and corresponding photos.)  
+| (Contact)[Contact.md] |
+| :---: |  
+|  |  
 
+
+___________ 
+
+# Completed Work:
 ___________
-# Pens 
+
+
+## Pens 
 
 <img src="Pens/ThemeImgPens.jpg" width= "400*4/3" height="400">
 
 [View Pens](Pens.md)
 
-# Spoons
+## Spoons
 
 <img src="Spoons/ThemeImgSpoons.jpg" width= "400*4/3" height="400">
 
 [View Spoons](Spoons.md)
 
-# Furniture 
+## Furniture 
 
 <img src="Furniture/SidetablePlantBackground.JPG" width= "508" height="561">
 
@@ -35,8 +41,10 @@ __________
 __________
 __________
 
+# Materials and Creation
 
 ## Crafted from Local Wood
+
 Dead trees are given new life and beauty through these projects. As pen/spoon projects don't require large amounts of wood, most wood is sourced from my backyard. Here are photos showing various types of trees I have used and their respective grain coloring:  
 
 __________
@@ -58,6 +66,23 @@ Eucalyptus trees have a beautiful orange colored core wood.
 Taken from a felled tree in our neighborhood (root beer can for reference).
 
 <img src="PineWoodPile.jpg" width="300" height="400">
+
+### Walnut
+
+<img src="FallenWalnutTree.jpg" width="400" height="300">
+
+Here is a walnut tree that was taken by termites. Rotting parts are left to enrich the soil while we carefully pick out small branches elevated from the ground.
+
+## Creation
+
+Every piece has the upmost attention to detail taken towards it and only the best make it out. The processes for each, pen, spoon, and furniture piece, are unique. I have linked them here as well as next to their display photos under each section.  
+
+*(Pen creation coming soon)*
+
+(Spoon Creation)[SpoonCreation.md]  
+
+(Side Table Construction)[SideTableCreation.md]  
+
 
 
 [Go to Top](#Thomas-Woodworking-Co)
