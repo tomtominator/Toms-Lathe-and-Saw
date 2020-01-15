@@ -184,7 +184,9 @@ _________
 
 ### Leopardwood Gatsby
 
-<img src="Pens/LeopardwoodGatsbyPen.JPG" height="800" width="600">
+<img src="Pens/LeopardwoodGatsbyPen.JPG" height="800" width="600">  
+
+ID: 25  
 
 A truely beautiful and exotic pen. This pen was created to dazzle which is why I used the leopardwood. Here again, the shape of the pen was to best display the grain. Without the strange shape, the circlar patterns at each ridge wouldn't appear. Despite the interesting shape, I quite like how the pen feels writing.(12/16/2019)
 
@@ -192,7 +194,9 @@ _________
 
 ### Yellowheart Gatsby Click
 
-<img src="Pens/YellowheartGatsbyClickPen.JPG" height="800" width="600">
+<img src="Pens/YellowheartGatsbyClickPen.JPG" height="800" width="600">  
+ID: 26  
+
 
 *Displayed on a yellowing walnut tree nested in a fold of our valley in the winter months.*
 
