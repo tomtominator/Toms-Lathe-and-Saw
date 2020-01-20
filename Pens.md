@@ -230,6 +230,8 @@ ID: 29
 This pen's design is minimalist. Before I started, I noticed a abnormality in the blank, a red streak. I drilled so that its predicted path would be displayed in the finished product. This line adds a touch of uniqueness to a gentle pen. Besides this, I used a technique I learned when making the [Bocote Executive](###Bocote-Executive) to clean the pours of the wood. This is especially important in light woods like this one. (1/19/2020)  
 
 
+[Return To Top](#Pens)
+
 _________  
 
 _________  
