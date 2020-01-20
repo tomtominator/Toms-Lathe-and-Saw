@@ -201,7 +201,34 @@ ID: 26
 *Displayed on a yellowing walnut tree nested in a fold of our valley in the winter months.*
 
 
-My favorite color is yellow so I like this pen. However, the wood tends to look fake at times because its color is so unbelieveable. A yellow pen is much less dazzling than a wood pen that is yellow colored in my opinion. To get the darker sanded material out of all the pores of this pen(because it is yellow this material stood out) I buffed it throughoutly while varnishing with mineral oil. This worked well to push any dark impurities out of the pores of the wood.(12/29/2019)
+My favorite color is yellow so I like this pen. However, the wood tends to look fake at times because its color is so unbelieveable. A yellow pen is much less dazzling than a wood pen that is yellow colored in my opinion. To get the darker sanded material out of all the pores of this pen(because it is yellow this material stood out) I buffed it throughoutly while varnishing with mineral oil. This worked well to push any dark impurities out of the pores of the wood.(12/29/2019)  
+
+
+### East Indian Rosewood Classic 
+
+<img src="Pens/EastIndianRosewoodClassicFountainPen.JPG" height="800" width="600">  
+ID: 27  
+
+My first endeavor in fountain pens. I realized that the design needed to look good with the cap off or on, when writing or not. The rosewood is dark and heavy with a deep grain. Its contrast with the silver pen nib creates an elegant feel. (1/19/2020)  
+
+
+### African Blackwood Olympian
+
+<img src="Pens/AfricanBlackwoodOlympianPen.JPG" height="800" width="600">  
+ID: 28  
+
+This kit was expensive because it contains a quality nib and wide barrels. The wideness of the pen fits comfortably in the hand. Additionally, the blackwood is increditably dense but the weight around the pen is well balanced. This gives a feel of confidence when writing. Another result of the wood density is the ability to polish to a great sheen. (1/19/2020)  
+
+
+### Canarywood Trimline
+
+<img src="Pens/CanarywoodTrimlinePen.JPG" height="800" width="600">  
+ID: 29  
+
+*Displayed on a schefflera*
+
+This pen's design is minimalist. Before I started, I noticed a abnormality in the blank, a red streak. I drilled so that its predicted path would be displayed in the finished product. This line adds a touch of uniqueness to a gentle pen. Besides this, I used a technique I learned when making the [Bocote Executive](###Bocote-Executive) to clean the pours of the wood. This is especially important in light woods like this one. (1/19/2020)  
+
 
 _________  
 
