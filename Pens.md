@@ -80,7 +80,7 @@ _________
 ### Mystery Wood Slimline
 
 <img src="Pens/UnknownWoodSlimlinePen.JPG" height="800" width="600">
-ID: 18  
+ID: 17  
 
 This piece was in the inventory but I have no idea where this wood came from. I need to improve my wood accounting skills I guess. Although theories exist for its type, I am not confident enough to say one way or the other. It made a good looking pen though. There were some issues with the wood getting dirty from lubricant that seeped out of the pen mandrel threads. I fixed this by cleaning the mandrel and removing the outter layer of wood that was stained. Light colored, pourous woods like these have had a tendancy to soak up sawdust, lubricant, and other impurities that ruin the color. A comprehensive solution is in the works. (11/27/2019)
 
@@ -228,6 +228,15 @@ ID: 29
 *Displayed on a schefflera*
 
 This pen's design is minimalist. Before I started, I noticed a abnormality in the blank, a red streak. I drilled so that its predicted path would be displayed in the finished product. This line adds a touch of uniqueness to a gentle pen. Besides this, I used a technique I learned when making the [Bocote Executive](###Bocote-Executive) to clean the pours of the wood. This is especially important in light woods like this one. (1/19/2020)  
+
+
+### Cocobolo Slimline
+
+<img src="ComingSoon.jpg" height="800" width="600">  
+ID: 30  
+
+
+A quality pen created from fascinating wood. I measured out the space between the bands near the top of the pen carefully as even a small difference is very detrimental. They came out perfectly spaced. I wanted a contrast between styles in this pen. The top barrel has more straight lines and sharp curves while the bottem barrel has broad sweeping curves meant to fit the hand. Finished by sanding, heating up the surface wood to buff, polishing with wood oil, and sealing with wax. (1/30/2020)  
 
 
 [Return To Top](#Pens)
