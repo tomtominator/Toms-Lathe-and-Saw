@@ -80,7 +80,7 @@ _________
 ### Mystery Wood Slimline
 
 <img src="Pens/UnknownWoodSlimlinePen.JPG" height="800" width="600">
-ID: 18  
+ID: 17  
 
 This piece was in the inventory but I have no idea where this wood came from. I need to improve my wood accounting skills I guess. Although theories exist for its type, I am not confident enough to say one way or the other. It made a good looking pen though. There were some issues with the wood getting dirty from lubricant that seeped out of the pen mandrel threads. I fixed this by cleaning the mandrel and removing the outter layer of wood that was stained. Light colored, pourous woods like these have had a tendancy to soak up sawdust, lubricant, and other impurities that ruin the color. A comprehensive solution is in the works. (11/27/2019)
 
@@ -236,7 +236,7 @@ This pen's design is minimalist. Before I started, I noticed a abnormality in th
 ID: 30  
 
 
-A modern pen made to write and sign with style. This cocobolo blank was positioned so that a brighter orange flair appeared right at the tip of the pen and the end. Additionally, there is a beautiful variation of color along the length of the pen that compliments the style. (2/3/2020)
+A modern pen made to write and sign with style. This cocobolo blank was positioned so that a brighter orange flair appeared right at the tip of the pen and the end. Additionally, there is a beautiful variation of color along the length of the pen that compliments the style. I measured out the space between the bands near the top of the pen carefully as even a small difference is very detrimental. They came out perfectly spaced. I wanted a contrast between styles in this pen. The top barrel has more straight lines and sharp curves while the bottem barrel has broad sweeping curves meant to fit the hand. Finished by sanding, heating up the surface wood to buff, polishing with wood oil, and sealing with wax. (1/30/2020)(2/3/2020)
 
 ### Shedua Designer
 
