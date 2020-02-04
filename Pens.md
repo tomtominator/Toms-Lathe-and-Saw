@@ -230,6 +230,44 @@ ID: 29
 This pen's design is minimalist. Before I started, I noticed a abnormality in the blank, a red streak. I drilled so that its predicted path would be displayed in the finished product. This line adds a touch of uniqueness to a gentle pen. Besides this, I used a technique I learned when making the [Bocote Executive](###Bocote-Executive) to clean the pours of the wood. This is especially important in light woods like this one. (1/19/2020)  
 
 
+### Cocobolo Slimline Silver  
+
+<img src="Pens/CocoboloSlimlineSilverPen.JPG" height="800" width="600">  
+ID: 30  
+
+
+A modern pen made to write and sign with style. This cocobolo blank was positioned so that a brighter orange flair appeared right at the tip of the pen and the end. Additionally, there is a beautiful variation of color along the length of the pen that compliments the style. (2/3/2020)
+
+### Shedua Designer
+
+<img src="Pens/SheduaDesignerPen.JPG" height="800" width="600">  
+ID: 31  
+
+*Displayed on a daisy bush blooming a little early in season*
+
+Made of a softer wood that displays a deep grain of many strands. The tree it is derived from is more formally known as Guibourtia ehie, a rare tree from central Africa. The designer kit does well to let the wood speak for itself while providing a elegant background that fits well in the hand. The gold of the kit well compliments the warmness of the shedua wood. (2/3/2020)
+
+### Teak Designer 
+
+<img src="Pens/TeakDesignerPen.JPG" height="800" width="600">  
+ID: 32  
+
+*Displayed on a hanging eucalyptus branch with silver dollar leaves*
+
+This pen displays smooth curves with a subtle wood that displays class in a modest way. Teak wood comes from a large tree that is quite common and well used for its high quality. It is a good balance between strength and wieght, being robust while still resting gently in the hand. With a ergonomic design, this pen writes smoothly and comfortably for long periods. Perfect for the regular writer. (2/3/2020)    
+
+
+### Katalox Trimline 
+
+<img src="Pens/KataloxTrimlinePen.jpg" height="800" width="600">  
+ID: 33  
+
+*Displayed on an mysterious indigenous plant that blooms briefly while appearing dead the rest of the year*
+
+This pen was crafted from deep purple katalox wood that has an incredible density. This means it is able to be sanded to a perfect surface, smooth as stone. One of my new favorites, this pen is top tier when it comes to elegant and craft. Its simple design contains carefully measured curves to fit best in the average hand and to be mathematically pleasing to the eye. (2/3/2020)  
+
+
+
 [Return To Top](#Pens)
 
 _________  
