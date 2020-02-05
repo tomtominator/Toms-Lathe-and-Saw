@@ -249,7 +249,7 @@ Made of a softer wood that displays a deep grain of many strands. The tree it is
 
 ### Teak Designer 
 
-<img src="Pens/TeakDesignerPen.JPG" height="800" width="600">  
+<img src="Pens/TeakDesignerPen.jpg" height="800" width="600">  
 ID: 32  
 
 *Displayed on a hanging eucalyptus branch with silver dollar leaves*
