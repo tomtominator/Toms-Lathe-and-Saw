@@ -6,6 +6,7 @@ _________
 |  :---:  |
 |  [Return Home](index.md)  |
 |  [My Favorite Pen](#bocote-executive)  |
+|  [View Pen Boxes](penbox.md)  |  
 
 _________  
 
