@@ -23,6 +23,21 @@ _________
 
 _________  
 
+### Display Shelf
+
+This shelf was created to effectively store my brother's books as we had to adapt our workspaces for homeschooling due to the coronavirus quarintine. This shelf, originally meant to be a quick utility project turned into one where I focused mainly on the asthetic value of the shelf. Using a technique I had learned from talking with a woodworker in Topanga, I created the facing of the shelf with inlaid maple dowels. This project also helped to use some spare would that has been lying around from other projects. (3/29/2020)  
+
+
+Displayed on a ridge, the shelf remains orderly, square, and elegant with the chaotic growth of nature superimposed in the background.  
+
+<img src="Furniture/ShelfSide.JPG" height="800" width="600">  
+
+<img src="Furniture/ShelfTop.JPG" height="800" width="600">  
+
+_________  
+
+_________  
+  
 
 Miscellaneous projects where functionality is the goal: [MiscProjects](MiscellaneousItems.md)  
 
@@ -35,4 +50,4 @@ _________
 _________  
 
 
-Thomas Matthew 2019
+Thomas Matthew 2020

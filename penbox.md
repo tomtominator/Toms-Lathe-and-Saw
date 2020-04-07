@@ -28,7 +28,7 @@ I made 2 more boxes, based on the plans developed before from two different wood
 <img src="PenBox/RefinedWalnut.JPG" height="800" width="600">  
 
 
-<img src="PenBox/AssortedBoxes.JPG" height="600" width="800">  
+<img src="PenBox/AssortedBoxes.JPG" height="450" width="600">  
 
 
 The second part of the box, and one of the more subtle but important pieces, is the mechanism to hold the pen snugly in the box. While the pen must not rattle, it also must be easily taken out for use. I tried two different ways.  
@@ -40,6 +40,12 @@ The second part of the box, and one of the more subtle but important pieces, is 
 <img src="PenBox/CradleBoxHolder2.JPG" height="800" width="600">  
 
 The mechanism on the walnut box that cradles the pen works much better and is what I will be using.  
+
+### 3/25/2020: 
+
+A magnet, one placed on the lid and one on the box, helps keep the lid on the box. It also gives the box a nice click when it closes.
+
+<img src="PenBox/MagnetBox.JPG" height="800" width="600">
 
 
 
