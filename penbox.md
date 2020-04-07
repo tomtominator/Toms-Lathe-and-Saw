@@ -2,6 +2,9 @@
 
 This section shows my progression towards a simple, easy to make box to hold individual pens. Both the quality of the box and its built time are important as I want to spend most of my time making the pen inside the box.  
 
+[Return Home](index.md)  
+
+
 
 I picked up some great pieces of cyprus stump on my way home from school. Somebody apparently had cut their tree down and had extra pieces.  
 
@@ -43,7 +46,8 @@ The mechanism on the walnut box that cradles the pen works much better and is wh
 
 ### 3/25/2020: 
 
-A magnet, one placed on the lid and one on the box, helps keep the lid on the box. It also gives the box a nice click when it closes. 
+A magnet, one placed on the lid and one on the box, helps keep the lid on the box. It also gives the box a nice click when it closes.  
+
 
 <img src="PenBox/MagnetBox.JPG" height="800" width="600">
 
