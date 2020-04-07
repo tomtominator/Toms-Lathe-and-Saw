@@ -32,7 +32,7 @@ Displayed on a ridge, the shelf remains orderly, square, and elegant with the ch
 
 <img src="Furniture/ShelfSide.JPG" height="800" width="600">  
 
-<img src="Furniture/ShelfTop.JPG" height="800" width="600">  
+<img src="Furniture/ShelfTop.jpg" height="800" width="600">  
 
 _________  
 
