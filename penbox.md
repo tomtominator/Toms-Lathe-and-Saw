@@ -43,7 +43,7 @@ The mechanism on the walnut box that cradles the pen works much better and is wh
 
 ### 3/25/2020: 
 
-A magnet, one placed on the lid and one on the box, helps keep the lid on the box. It also gives the box a nice click when it closes.
+A magnet, one placed on the lid and one on the box, helps keep the lid on the box. It also gives the box a nice click when it closes. 
 
 <img src="PenBox/MagnetBox.JPG" height="800" width="600">
 
