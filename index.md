@@ -78,7 +78,7 @@ Here is a walnut tree that was taken by termites. Rotting parts are left to enri
 
 ## Creation
 
-Every piece has the upmost attention to detail taken towards it and only the best make it out. The processes for each, pen, spoon, and furniture piece, are unique. I have linked them here as well as next to their display photos under each section.  
+Every piece has the utmost attention to detail taken towards it and only the best make it out. The processes for each, pen, spoon, and furniture piece, are unique. I have linked them here as well as next to their display photos under each section.  
 
 *(Pen creation coming soon)*
 
