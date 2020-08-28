@@ -80,7 +80,8 @@ Here is a walnut tree that was taken by termites. Rotting parts are left to enri
 
 There is a unique process for creating each type of piece. Even within that process each piece has its own variation since they are all handmade. I have linked them here as well as next to their display photos under each section.  
 
-*(Pen creation coming soon)*
+Youtube video showing the pen making process. (Parody of [ThisOldTony](https://www.youtube.com/channel/UC5NO8MgTQKHAWXp6z8Xl7yQ) Youtube Channel)
+[Pen Creation](https://www.youtube.com/watch?v=inQq9KCmMYA)
 
 [Spoon Creation](SpoonCreation.md)  
 
