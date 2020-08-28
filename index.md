@@ -78,7 +78,7 @@ Here is a walnut tree that was taken by termites. Rotting parts are left to enri
 
 ## Creation
 
-Every piece has the utmost attention to detail taken towards it and only the best make it out. The processes for each, pen, spoon, and furniture piece, are unique. I have linked them here as well as next to their display photos under each section.  
+There is a unique process for creating each type of piece. Even within that process each piece has its own variation since they are all handmade. I have linked them here as well as next to their display photos under each section.  
 
 *(Pen creation coming soon)*
 
@@ -86,12 +86,6 @@ Every piece has the utmost attention to detail taken towards it and only the bes
 
 
 [Side Table Construction](SideTableCreation.md)  
-
-
-
-A variety of precise tools can be used to cut, shape, sand, and morph the wood. Here are mine:  
-
-*Coming Soon*
 
 
 [Go to Top](#Thomas-Woodworking-Co)
