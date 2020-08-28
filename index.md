@@ -6,7 +6,7 @@
 |  |  
   
   
-Thomas Woodworking Co is a home shop based out of Los Angeles, California. I am a young woodworker using my eye for style in each of my pieces. All pieces are handcrafted personally with the greatest attention to detail. My best works have transformed dead trees with a story to tell around my neighborhood into beautiful, functional art pieces. In each section, my favorite piece is linked to at the top.  
+Thomas Woodworking Co is a home shop based out of Los Angeles, California. All pieces are handcrafted personally with the greatest attention to detail. Local dead trees, many of which died in California's recent severe drought, are used in most projects.   
 
 
 | [Contact Me](Contact.md) |
