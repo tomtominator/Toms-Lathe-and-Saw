@@ -5,7 +5,7 @@
 
 <img src="Furniture/CheeseBoardAction.JPG" height="800" width="600"> 
 
-<img src="Furniture/CheeseBoardFront.JPG" height="600" width="800"> 
+<img src="Furniture/CheeseBoardFront.JPG" height="450" width="600"> 
 
 <img src="Furniture/CheeseBoardUpsideDown.JPG" height="800" width="600"> 
 
