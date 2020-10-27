@@ -14,11 +14,12 @@ Thomas Woodworking Co is a home shop based out of Los Angeles, California. All p
 |  |  
 
 
+## Latest Project
+[Click Here to See Latest Project](latest.md)
 ___________ 
 
 # Completed Work:
 ___________
-
 
 ## Pens 
 
