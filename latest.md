@@ -46,5 +46,12 @@ Carving was made using both a drill and hand chisel. As shown, the drill helped 
 
 <img src="Furniture/B_CheeseBoardGlueing.jpg" height="800" width="600"> 
 
-Here is the 'final' step: glueing all the pieces together. This is actually just the first half of construction. Most of the time is spend sanding and finishing: The resin was sanded down using 220 grit and brought back up to a polish with micro mesh sanders(approx 10000+). The handle was shaped to fit with the file and sandpaper. Burns, notches, or other blemishes that appeared from inital shaping and construction must be sanded away. Small differences in height between the three pieces were sanded flat. The whole piece was sanded up to 220 grit.
+Here is the 'final' step: glueing all the pieces together. This is actually just the first half of construction. Most of the time is spend sanding and finishing: The resin was sanded down using 220 grit and brought back up to a polish with micro mesh sanders(approx 10000+). The handle was shaped to fit with the file and sandpaper. Burns, notches, or other blemishes that appeared from inital shaping and construction must be sanded away. Small differences in height between the three pieces were sanded flat. The whole piece was sanded up to 220 grit. 
 
+_______________ 
+
+_______________ 
+
+_______________ 
+
+Thomas Matthew 2020
