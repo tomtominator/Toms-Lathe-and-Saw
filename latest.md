@@ -13,6 +13,7 @@ Small divit made to make picking up the board easier.
 
 <img src="Furniture/CheeseBoardHandle.JPG" height="800" width="600"> 
 
+Wood is noticebly different looking when facing from different directions in the same light. Likely because padauk wood is known for numerous pores.
 Loop in the handle made for hanging up when not in use by a leather cord or rope. Handle shape meant to cradle a right handed person.
 
 ### Construction
