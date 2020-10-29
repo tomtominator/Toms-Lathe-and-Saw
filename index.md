@@ -19,7 +19,8 @@ Thomas Woodworking Co is a home shop based out of Los Angeles, California. All p
 ## Latest Project:
 <img src="Furniture/CheeseBoardAction.JPG" height="400" width="300"> 
 
-[View Latest Project](latest.md)
+[View Latest Project](latest.md) 
+
 ___________ 
 
 # Completed Work:
