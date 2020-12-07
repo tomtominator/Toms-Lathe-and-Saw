@@ -6,6 +6,35 @@ ______________
 
 ______________ 
 
+## Hill Worktable: DEC 2020
+
+"If I have to do school at home I might as well do it outside."  
+
+<img src="Furniture/Hill_Table(1).JPG" height="800" width="600">  
+
+<img src="Furniture/Hill_Table(2).JPG" height="800" width="600"> 
+
+<img src="Furniture/Hill_Table(3).JPG" height="800" width="600"> 
+
+<img src="Furniture/Hill_Table(4).JPG" height="800" width="600"> 
+
+<img src="Furniture/Hill_Table(5).JPG" height="800" width="600"> 
+
+<img src="Furniture/Hill_Table(6).JPG" height="800" width="600"> 
+
+<img src="Furniture/Hill_Table(7).JPG" height="800" width="600"> 
+
+Great place to do math.  
+
+
+______________  
+
+______________  
+
+______________  
+
+
+
 ## Padauk Wood Cheese/Bread Board: OCT 2020 
 
 
