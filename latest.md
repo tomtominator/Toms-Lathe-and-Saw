@@ -22,9 +22,10 @@ ______________
 
 <img src="Furniture/Hill_Table(6).jpg" height="800" width="600"> 
 
-<img src="Furniture/Hill_Table(7).jpg" height="800" width="600"> 
+<img src="Furniture/Hill_Table(7).jpg" height="450" width="600"> 
 
-Great place to do math.  
+Great place to do math and wonder why I'm taking multivariable calculus. (bad idea)  
+
 
 
 ______________  
