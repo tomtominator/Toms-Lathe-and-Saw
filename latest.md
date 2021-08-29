@@ -6,6 +6,22 @@ ______________
 
 ______________ 
 
+## Quaking Aspen Art: JUN 2021  
+
+Huge thank you to the Wolff family and their wonderful hospitatity! It doesn't go unnoticed. I made this gift for them.  
+
+<img src="Furniture/Hill_Table(1).jpg" height="800" width="600">  
+
+<img src="Furniture/Hill_Table(1).jpg" height="800" width="600">  
+
+<img src="Furniture/Hill_Table(1).jpg" height="800" width="600">  
+
+<img src="Furniture/Hill_Table(1).jpg" height="800" width="600">  
+
+______________ 
+______________ 
+______________ 
+
 ## Hill Worktable: DEC 2020
 
 "If I have to do school at home I might as well do it outside."  
@@ -37,6 +53,8 @@ ______________
 
 
 ## Padauk Wood Cheese/Bread Board: OCT 2020 
+
+Thanks to the Larsons!  
 
 
 <img src="Furniture/CheeseBoardAction.JPG" height="800" width="600"> 
