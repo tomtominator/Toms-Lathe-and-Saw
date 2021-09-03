@@ -17,7 +17,7 @@ Thomas Woodworking Co is a home shop based out of Los Angeles, California. All p
   
   
 ## Latest Project:
-<img src="Furniture/Hill_Table(7).jpg" height="450" width="600"> 
+<img src="QAspenComplete (1).jpg" height="600" width="450"> 
 
 [View Latest Project](latest.md) 
 
@@ -40,7 +40,7 @@ ___________
 
 ## Furniture 
 
-<img src="Furniture/SidetablePlantBackground.JPG" width= "508" height="561">
+<img src="Furniture/SidetablePlantBackground.JPG" width= "561" height="508">
 
 [View Furniture](Furniture.md)
 
